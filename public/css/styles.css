@@ -9,7 +9,6 @@ Author URL: http://webthemez.com
 body {
   padding-top: 100px;
   background: #fff;
-  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   color: #004aad;
   line-height: 26px;
@@ -589,7 +588,6 @@ border: 1px solid rgba(255, 255, 255, 0.2);
 margin: 0 8px;
 }
 #about {
-  padding: 100px 0;
   /* background: #07080A; */
   /* background: url('../images/img2.jpg'); */    
   /* background-size: cover; */  };
@@ -610,6 +608,7 @@ color: #ff3333;
   padding: 0;  
 }
 #our-team .team-member .team-img {
+  width: auto;
   margin: 0;
 }
 #our-team .team-member .team-info { 
@@ -914,10 +913,10 @@ padding: 20px 0;
 }
 @media only screen and (max-width: 480px) {
 #hero-banner h2 {
-margin-top: 161px;
-font-size: 26px;
-line-height: 40px;
-padding: 10px;
+ margin-top: 161px;
+ font-size: 21px;
+ line-height: 0px;
+ padding: 8px;
 }
 #hero-banner p {
 font-size: 18px;
