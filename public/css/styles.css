@@ -931,10 +931,11 @@ padding: 20px 0;
 }
 @media only screen and (max-width: 480px) {
 #hero-banner h2 {
- margin-top: 161px;
- font-size: 21px;
- line-height: 0px;
- padding: 8px;
+  background-color: #ffffff54;
+  margin-top: 135px;
+  font-size: 23px;
+  line-height: 21px;
+  padding: 8px;
 }
 #hero-banner p {
 font-size: 18px;
