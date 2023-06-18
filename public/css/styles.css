@@ -51,6 +51,7 @@ hr {
 }
 .section-header {
   margin-bottom: 50px;
+  background-color: #ffffffbf;
 }
 .section-header p{
 text-align:center;
@@ -264,6 +265,10 @@ background: #FFF;
 }
 
 #hero-banner{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-end;
   overflow: hidden;
   height: 700px;
   background: url('../images/banner/billar.jpg');
@@ -304,9 +309,10 @@ line-height:35px;
   color: #FFF;
 }
 #hero-banner a {
+text-align: center;
 margin: 0;
 display: block;
-background: transparent;
+background: #0000003b;
 border: 2px solid #fff;
 float: right;
 }
@@ -843,6 +849,10 @@ color: #ff3333;
 #contact-us h2 {
 }
 /*Contact*/
+#contact-info{
+  text-align: center;
+  background-color: #ffffffbf;
+}
  .contact-info{
  background: #034caec2;
  padding: 50px;
@@ -850,6 +860,7 @@ color: #ff3333;
  background: url('../images/img2.jpg');
 }
 .contact-info address {
+  text-align: center;
 margin-bottom: 20px;
 font-style: normal;
 line-height: 27px;
@@ -897,6 +908,13 @@ width: 31px;
 text-align: center;
 }
 @media only screen and (min-width: 768px) {
+  .col-sm-12 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+  }
   #footer .social-icons {
     float: right;
   }
