@@ -290,7 +290,7 @@ background: #FFF;
   color: #000;
 }
 #hero-banner h2 {
-  margin-top: 299px;
+  margin-top: -11px;
   font-size: 39px;
   line-height: 49px; 
 
@@ -299,6 +299,13 @@ background: #FFF;
 }
 #hero-banner h2 b{
 color: #014aad;
+}
+#hero-banner h1 {
+  margin-top: 177px;
+  font-size: 39px;
+  line-height: 49px;
+  text-align: right;
+  color: #f5f5f5;
 }
 #hero-banner p { 
   font-size: 22px; 
@@ -776,6 +783,35 @@ margin: 0;
   border-radius: 100px;
   margin-bottom: 20px;
 }
+
+
+
+.article {
+  display: none; /* Oculta las sublistas por defecto */
+}
+
+.information a {
+  cursor: pointer; /* Cambia el cursor a un puntero al pasar sobre el enlace */
+}
+
+.information a::after {
+  content: "+"; /* Agrega un signo "+" después del enlace */
+  margin-left: 5px; /* Espacio entre el enlace y el signo "+" */
+}
+
+.information.active a::after {
+  content: "-"; /* Cambia el signo "+" a "-" cuando la lista está abierta */
+}
+
+.information.active .article {
+  display: block; /* Muestra la lista cuando la lista padre está activa */
+}
+
+.article-secondary{
+  margin: 10px;
+}
+
+
 #pricing {
   padding: 100px 0 70px;
 }
@@ -930,9 +966,16 @@ padding: 20px 0;
   -webkit-box-shadow: none;
 }
 @media only screen and (max-width: 480px) {
+  #hero-banner h1 {
+    margin-top: 75px;
+    font-size: 40px;
+    line-height: 35px;
+    text-align: right;
+    color: #ffffff;
+}
 #hero-banner h2 {
   background-color: #ffffff54;
-  margin-top: 135px;
+  margin-top: 0;
   font-size: 23px;
   line-height: 21px;
   padding: 8px;
