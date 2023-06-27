@@ -56,14 +56,21 @@ hr {
 .section-header p{
 text-align:center;
 }
+.section-article .section-title {
+  font-size: 44px;
+  color: #333;
+  position: relative;
+  padding-bottom: 20px;
+  margin: 0 0 20px;  
+  display: block;
+  text-align: center;
+}
 .section-header .section-title {
   font-size: 44px;
   color: #ff3333;
   position: relative;
   padding-bottom: 20px;
   margin: 0 0 20px;  
-
-
   display: block;
   text-align: center;
 }
@@ -105,6 +112,9 @@ padding:0px;
 .listarrow li i{
 padding-right:15px;
 color: #F9690E;
+}
+.column-article {
+  color: #333;
 }
 .column-title {
   margin-top: 0;
@@ -600,15 +610,12 @@ background: transparent;
 border: 1px solid rgba(255, 255, 255, 0.2);
 margin: 0 8px;
 }
-#about {
+#about-article {color: #333;
   /* background: #07080A; */
   /* background: url('../images/img2.jpg'); */    
   /* background-size: cover; */  };
 #about .column-title{
 color:#fff;
-}
-#about p{
-color: #004aad;
 }
 #about .listarrow li{
 color: #ff3333;
@@ -784,33 +791,69 @@ margin: 0;
   margin-bottom: 20px;
 }
 
-
-
-.article {
-  display: none; /* Oculta las sublistas por defecto */
+.img-article{
+    display: flex;
+    margin-right: -15px;
+    margin-left: -15px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
 }
 
-.information a {
-  cursor: pointer; /* Cambia el cursor a un puntero al pasar sobre el enlace */
+.information-btn{
+  display: none;
+}
+.information-btn2{
+  display: none;
 }
 
-.information a::after {
-  content: "+"; /* Agrega un signo "+" después del enlace */
-  margin-left: 5px; /* Espacio entre el enlace y el signo "+" */
+
+ul li{
+  display: inline-block;
+  position: relative;
+  line-height: 21px;
+  text-align: left;
+ 
+}
+.information a{
+  display: block;
+  padding: 8px 25px;
+  color: #333;
+  text-decoration: none;
+}
+ul li a:hover{
+  color: #fff;
+  background: #939393;
+}
+.information ul.dropdown{
+  min-width: 84%; /* Set width of the dropdown */
+  background: #f2f2f2;
+  display: none;
+  position: absolute;
+  z-index: 999;
+  left: 0;
+}
+ul li:hover ul.dropdown{
+  padding-inline-start: 10px;
+  display: block;	/* Display the dropdown */
+}
+ul li ul.dropdown li{
+  display: block;
+}
+#left2 {
+  left: 114px;
+}
+#left3 {
+  left: 228px;
 }
 
-.information.active a::after {
-  content: "-"; /* Cambia el signo "+" a "-" cuando la lista está abierta */
-}
 
-.information.active .article {
-  display: block; /* Muestra la lista cuando la lista padre está activa */
-}
 
-.article-secondary{
-  margin: 10px;
+#break{
+  display: none;
 }
-
 
 #pricing {
   padding: 100px 0 70px;
@@ -966,8 +1009,23 @@ padding: 20px 0;
   -webkit-box-shadow: none;
 }
 @media only screen and (max-width: 480px) {
+  .img-article {
+    display: flex;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+  #break{
+    display: flex;
+  }
+  .information-btn{
+    display: flex;
+  }
   #hero-banner h1 {
-    margin-top: 75px;
+    margin-top: 110px;
     font-size: 40px;
     line-height: 35px;
     text-align: right;
