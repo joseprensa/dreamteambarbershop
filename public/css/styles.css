@@ -146,7 +146,9 @@ ul.nostyle i {
 .navbar-toggle{
 border-radius: 0;
 }
-
+.policy {
+  margin-top: 100px;
+}
 .navbar-nav>li>a {
 text-transform: uppercase;
 }
