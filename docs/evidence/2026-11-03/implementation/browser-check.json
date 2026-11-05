@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-03",
+  "measuredAtUtc": "2026-11-04T01:41:58.849Z",
+  "browser": "155.0.8059.85",
+  "base": "http://127.0.0.1:4175",
+  "results": [
+    {
+      "page": "index.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "advertisingpolicy.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "beardgrowth.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "beardhealth.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "Cookiespolicy.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "hairtipsandroots.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "hairtype.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "healthyscalp.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "itchyscalp.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "PrivacyPolicy.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "Termsandconditionsofuse.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "page": "404.html",
+      "status": "passed",
+      "checks": "One H1/main, labels, IDs; full original article/policy text preserved."
+    },
+    {
+      "viewport": 320,
+      "status": "passed",
+      "checks": "No horizontal overflow; mobile menu, Escape/focus and service link where applicable."
+    },
+    {
+      "viewport": 390,
+      "status": "passed",
+      "checks": "No horizontal overflow; mobile menu, Escape/focus and service link where applicable."
+    },
+    {
+      "viewport": 768,
+      "status": "passed",
+      "checks": "No horizontal overflow; mobile menu, Escape/focus and service link where applicable."
+    },
+    {
+      "viewport": 1440,
+      "status": "passed",
+      "checks": "No horizontal overflow; mobile menu, Escape/focus and service link where applicable."
+    },
+    {
+      "feature": "gallery",
+      "status": "passed",
+      "checks": "Image opens; next photo by keyboard; Escape closes and restores opener focus."
+    },
+    {
+      "feature": "booking measurement",
+      "status": "passed",
+      "checks": "No network event by default; one stubbed event on explicit consent; stops after revocation. No outbound booking requests."
+    },
+    {
+      "feature": "progressive enhancement",
+      "status": "passed",
+      "checks": "Navigation and booking links remain available with JavaScript disabled."
+    }
+  ],
+  "errors": [],
+  "httpErrors": [],
+  "status": "passed",
+  "scope": "Local preview only. All external requests blocked. No forms, appointments, ad impressions or real analytics events generated."
+}

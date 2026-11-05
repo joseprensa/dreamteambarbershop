@@ -1,0 +1,508 @@
+{
+  "date": "2026-11-03",
+  "baseCommit": "111f0f12e229e00cd8e05a24a671117dcfc5ac91",
+  "authorization": "Owner explicitly requested removal of unneeded files/code.",
+  "backupBundle": "../dreamteam-barbershop-backups/dreamteam-optimization-review-20261103.bundle",
+  "backupVerification": "git bundle verify passed; bundle HEAD matches pre-cleanup commit.",
+  "publicBefore": {
+    "files": 140,
+    "bytes": 4235550
+  },
+  "removedFiles": [
+    {
+      "file": "public/css/animate.min.css",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 55855,
+      "sha256": "72c105caa06c21134f40520c934ab86261d6965840d36e8862fb19e68725f238"
+    },
+    {
+      "file": "public/css/bootstrap.min.css",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 113471,
+      "sha256": "ccd903971da6a3c0af5a999ae7258147da613ae57d02420f640b6e055f015fca"
+    },
+    {
+      "file": "public/css/font-awesome.css",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 22996,
+      "sha256": "d24b48c1fc1a363b0025027bb77b8599bbc56ac3e803adb7b197070294f5bb4b"
+    },
+    {
+      "file": "public/css/font-awesome.min.css",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 21987,
+      "sha256": "50dbecb3ed007ae3c814e0c220f9e9a153d02fbafa3d9465c4b222042976a8ec"
+    },
+    {
+      "file": "public/css/prettyphoto.css",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 20057,
+      "sha256": "cb444ba3d0eb341ae27ff4e550228e184ac89b72da014d46e4f252d81ec26c86"
+    },
+    {
+      "file": "public/css/styles.css",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 23326,
+      "sha256": "fb7e3c12b38b3f7fd5eb78f8f4ec3a0a76f06c536f4008e86b12b1fdd1194666"
+    },
+    {
+      "file": "public/fonts/fontawesome-webfont.eot",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 56006,
+      "sha256": "e511891d3e01b0b27aed51a219ced5119e2c3d0460465af8242e9bff4cb61b77"
+    },
+    {
+      "file": "public/fonts/fontawesome-webfont.svg",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 287526,
+      "sha256": "b190eb2f651cb45bac4e2b2e14363a0a8d9cf3bee36e51522a1e64fec5b00308"
+    },
+    {
+      "file": "public/fonts/fontawesome-webfont.ttf",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 112160,
+      "sha256": "4d6eb9e9d852a2a6f74e7c428456a2f07fc63a1613d10192d8ed3401d9da5ffa"
+    },
+    {
+      "file": "public/fonts/fontawesome-webfont.woff",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 65452,
+      "sha256": "199411f659f41aaccb959bacb1b0de30e54f244352a48c6f9894e65ae0f8a9a1"
+    },
+    {
+      "file": "public/fonts/fontawesome.otf",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 85908,
+      "sha256": "0d34da07e5cbcb4ff087b397966a9f9ffb4d6ed7c7060568565203c02f3fee11"
+    },
+    {
+      "file": "public/fonts/glyphicons-halflings-regular.eot",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 20335,
+      "sha256": "f495f34e4f177cf0115af995bbbfeb3fcabc88502876e76fc51a4ab439bc8431"
+    },
+    {
+      "file": "public/fonts/glyphicons-halflings-regular.svg",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 63154,
+      "sha256": "111e21543faa914e22b6a363e6ebcbed6144e595acc0330ffc21ee3f360d33b8"
+    },
+    {
+      "file": "public/fonts/glyphicons-halflings-regular.ttf",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 41280,
+      "sha256": "bd18efd3efd70fec8ad09611a20cdbf99440b2c1d40085c29be036f891d65358"
+    },
+    {
+      "file": "public/fonts/glyphicons-halflings-regular.woff",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 23320,
+      "sha256": "fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e"
+    },
+    {
+      "file": "public/images/img2.jpg",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 223157,
+      "sha256": "7b6dd43e4f6c0f92dc8f8c1b6a65fe6496c86b02af99c3c79fa48fc7862e05ac"
+    },
+    {
+      "file": "public/images/img4.jpg",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 483952,
+      "sha256": "750c3bfc21c8905624e260f0b5388fd39a90c6323061f7800a209a8cf5fc2b33"
+    },
+    {
+      "file": "public/images/optimized/logo-182-c291b43283.webp",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 2998,
+      "sha256": "c291b432839a7f901592df2398676fd6f5dc63fb004d1f31cd5773aaa885fe3e"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_rounded/btnnext.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_rounded/btnprevious.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_rounded/contentpattern.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 130,
+      "sha256": "0bdac66efbb11777d972f6a5211490e346d4d82776184ddf7c8040894e1e3a66"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_rounded/default_thumbnail.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 227,
+      "sha256": "9468bfe77bb8540573a06e0e31b0577520cb5c12c575fdea39076a43c5764ecb"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_rounded/loader.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 2545,
+      "sha256": "ccd39b8ba77b46e92151135ac4749d1fa2e03fb5bc30b475c9ca11b8c95ef64e"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_rounded/sprite.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 4076,
+      "sha256": "183773346ca33ad6935e01714aab0e55d315b72767d3aaa6b51180367826091a"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_square/btnnext.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_square/btnprevious.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_square/contentpattern.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 121,
+      "sha256": "5a1cc6eb414a0707764bff9703e65e3c059b29a34f40ae64be7d6037153d5c68"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_square/default_thumbnail.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 227,
+      "sha256": "9468bfe77bb8540573a06e0e31b0577520cb5c12c575fdea39076a43c5764ecb"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_square/loader.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 2545,
+      "sha256": "ccd39b8ba77b46e92151135ac4749d1fa2e03fb5bc30b475c9ca11b8c95ef64e"
+    },
+    {
+      "file": "public/images/prettyPhoto/dark_square/sprite.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 3507,
+      "sha256": "ec6447bf74951685ad6773ad32a9a9123af6fed69fc20eefcaa33956f315eebc"
+    },
+    {
+      "file": "public/images/prettyPhoto/default/default_thumb.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1537,
+      "sha256": "82ddbf7fd3fd6b045fc6667a94a3dad1301a1b7572bc9c8003b9df22d46fb2ba"
+    },
+    {
+      "file": "public/images/prettyPhoto/default/loader.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 6331,
+      "sha256": "255f2566cd540a486b952938766fe509402c88f306cb501345131d86ad3ef978"
+    },
+    {
+      "file": "public/images/prettyPhoto/default/sprite.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 6682,
+      "sha256": "009ea272018963349c464e648fc440cfbc0065c9d220dcd9e79fb12047e387a2"
+    },
+    {
+      "file": "public/images/prettyPhoto/default/sprite_next.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1358,
+      "sha256": "75b7bb1e52ae9d0a7ee3647e3c840aa5b89135b6125badb2d55280504488072a"
+    },
+    {
+      "file": "public/images/prettyPhoto/default/sprite_prev.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1376,
+      "sha256": "0bab08fa3983682b543c484a6a891d0ed725f83ff3e81efa42a198546c4daea2"
+    },
+    {
+      "file": "public/images/prettyPhoto/default/sprite_x.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1097,
+      "sha256": "cf8a95c98411826d030dee08daf6ec8caeabab42a29143ab3d8eb69fcd30add5"
+    },
+    {
+      "file": "public/images/prettyPhoto/default/sprite_y.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1162,
+      "sha256": "7385cfef6ca7555144d6e75b17a3805b8c46d6663d06b7b4692327b92251fcac"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/btnnext.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 845,
+      "sha256": "ff251aca3496a2c0ce25a4b05a619a61d5a4867fb7165ae816e202cde2103b4f"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/btnprevious.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 828,
+      "sha256": "84db4592c7e89984d8ae40f81b779d97b6bb55d4741bba4329033ec4f854c1f1"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/contentpatternbottom.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 142,
+      "sha256": "565ed0e8265b719692eff0e31356ece9c4e4b9ddd753b0858e0c2277668d184d"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/contentpatternleft.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 137,
+      "sha256": "c9183c4ea5f592f5db89558b91abc45d6d10ca383f1ce41233900b1cbacff308"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/contentpatternright.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 136,
+      "sha256": "2f47a984b0a0f656080dcf3b87cc75d2000344512007b2cbdbdec790f92c23db"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/contentpatterntop.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 142,
+      "sha256": "41960505e78c2519594af3bdea17ddc116413fe313e98c5b206bad5abd1e7718"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/default_thumbnail.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 227,
+      "sha256": "9468bfe77bb8540573a06e0e31b0577520cb5c12c575fdea39076a43c5764ecb"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/loader.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 2545,
+      "sha256": "68255b5e88e8c44694211d8d86c3460be92bb6f3d1dd252dc0bf783e833cb067"
+    },
+    {
+      "file": "public/images/prettyPhoto/facebook/sprite.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 4227,
+      "sha256": "bcab8884b5a7e525cb27ea39cab9166dface8ff7028d8b311fec10971944529d"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_rounded/btnnext.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_rounded/btnprevious.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_rounded/default_thumbnail.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 227,
+      "sha256": "9468bfe77bb8540573a06e0e31b0577520cb5c12c575fdea39076a43c5764ecb"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_rounded/loader.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 2545,
+      "sha256": "68255b5e88e8c44694211d8d86c3460be92bb6f3d1dd252dc0bf783e833cb067"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_rounded/sprite.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 4099,
+      "sha256": "fb578ff5ab573efe22a87d63d027f7afee1fa949593b1ff2053b490bc845771a"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_square/btnnext.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1411,
+      "sha256": "f70f9ba6b6a11baceab4d76131276c68a8381739f8528cd4577ed0aced90d9b7"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_square/btnprevious.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1442,
+      "sha256": "fa43438befeeef390166ce541dbd8f585097629cb2df6ab3d6a5abc72d3413dc"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_square/default_thumbnail.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 227,
+      "sha256": "9468bfe77bb8540573a06e0e31b0577520cb5c12c575fdea39076a43c5764ecb"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_square/loader.gif",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 2545,
+      "sha256": "68255b5e88e8c44694211d8d86c3460be92bb6f3d1dd252dc0bf783e833cb067"
+    },
+    {
+      "file": "public/images/prettyPhoto/light_square/sprite.png",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 3507,
+      "sha256": "ec6447bf74951685ad6773ad32a9a9123af6fed69fc20eefcaa33956f315eebc"
+    },
+    {
+      "file": "public/js/bootstrap.min.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 35607,
+      "sha256": "6d0c489d9ab712d6670a54b4e665a39072926d309b001e179ccd721102b558df"
+    },
+    {
+      "file": "public/js/custom-scripts.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 3761,
+      "sha256": "85c317dc8f4df9a9bd4ae8b9a64ec9c42d436af302fd18b4c382bf1f3d2521e0"
+    },
+    {
+      "file": "public/js/html5shiv.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 2384,
+      "sha256": "84e69e527e237e8af573ce4dfc252e05e6d4554782e7d2a4af8f7dbc3ead067b"
+    },
+    {
+      "file": "public/js/jquery.inview.min.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 1424,
+      "sha256": "2fb896d59ab96b495498601fb1a0b126b53057ac7583e9ad13b319a3e532a943"
+    },
+    {
+      "file": "public/js/jquery.isotope.min.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 16045,
+      "sha256": "743b919a337dfbb6d1e8648d0793532d47f8af48059e17f7e32ae8738c7614a7"
+    },
+    {
+      "file": "public/js/jquery.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 93111,
+      "sha256": "3227c1f0bd7127f9b7fd63630f1868bd5c865be599bf536355d63222b353c197"
+    },
+    {
+      "file": "public/js/jquery.prettyphoto.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 22066,
+      "sha256": "15852f5e6504eac32a587f44d47bc36f543605e700e292812d9b6ead171602ff"
+    },
+    {
+      "file": "public/js/mousescroll.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 9799,
+      "sha256": "04128e5a0e2af50eda8cf265602fc68f558697f014b6f70b2c4616fef40acf7c"
+    },
+    {
+      "file": "public/js/respond.min.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 4041,
+      "sha256": "6869a60ebca689086a345ad791e80e3c5384fb6c4b3b5ef9272d8a5f8ef7ea31"
+    },
+    {
+      "file": "public/js/smoothscroll.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 6899,
+      "sha256": "0acf34d5bb6564b242bb23d95383fa824eaa584c16e0b2f8bb31e0d4a5378c3a"
+    },
+    {
+      "file": "public/js/wow.min.js",
+      "reason": "No current page, stylesheet, script or source-image pipeline uses this asset.",
+      "bytes": 4777,
+      "sha256": "186412f7166b1cc4ae633617a83bac2a507e549387c6e97f69f7654881f086ac"
+    },
+    {
+      "file": "tools/capture-live.cjs",
+      "reason": "One-time capture completed; original snapshot and full Git backup retained.",
+      "bytes": 2432,
+      "sha256": "cf5f5ae52fa26dc99dd964d31335b8c3aa679d356368cf3c5ae51fb25fea97e6"
+    },
+    {
+      "file": "docs/evidence/2026-11-03/desktop-home.png",
+      "reason": "Duplicate presentation artifact; equivalent raw JSON or complete scrolled screenshot retained.",
+      "bytes": 4812550,
+      "sha256": "1676b102f494397c34ad8d3d7092d2136a455e188f68851d38b1204e3b5ce797"
+    },
+    {
+      "file": "docs/evidence/2026-11-03/mobile-home.png",
+      "reason": "Duplicate presentation artifact; equivalent raw JSON or complete scrolled screenshot retained.",
+      "bytes": 1697758,
+      "sha256": "394d762d26dd33864b68b151b7ec21dc3a3addde742c495eed5c504c95307924"
+    },
+    {
+      "file": "docs/evidence/2026-11-03/lighthouse-mobile.report.html",
+      "reason": "Duplicate presentation artifact; equivalent raw JSON or complete scrolled screenshot retained.",
+      "bytes": 887495,
+      "sha256": "35e72473df9bcc0c086227309298eda0fae10f50adbc36c16b662b490d20d5b7"
+    },
+    {
+      "file": "docs/evidence/2026-11-03/lighthouse-desktop.report.html",
+      "reason": "Duplicate presentation artifact; equivalent raw JSON or complete scrolled screenshot retained.",
+      "bytes": 1148811,
+      "sha256": "6d34c598c02391d0288bc17e30af85e909185ff64b4496b78e1c62d9d3d81389"
+    },
+    {
+      "file": "docs/evidence/2026-11-03/implementation/local-baseline-mobile.report.html",
+      "reason": "Duplicate presentation artifact; equivalent raw JSON or complete scrolled screenshot retained.",
+      "bytes": 903843,
+      "sha256": "72d03b1d3967b3a6f700f676189d11668ccb5d4911d0ce9a008334625ac4116e"
+    },
+    {
+      "file": "docs/evidence/2026-11-03/implementation/local-baseline-desktop.report.html",
+      "reason": "Duplicate presentation artifact; equivalent raw JSON or complete scrolled screenshot retained.",
+      "bytes": 1149146,
+      "sha256": "76c72b5c05466a2fc30bdabf606a435a8b2bd0423f844a7203bbcbd2f36f0d64"
+    },
+    {
+      "file": "docs/evidence/2026-11-03/implementation/local-candidate-mobile-initial.report.html",
+      "reason": "Duplicate presentation artifact; equivalent raw JSON or complete scrolled screenshot retained.",
+      "bytes": 862480,
+      "sha256": "0fe4046c92b91619c9a8d5bf1f396557770908ec62e8288d7ceafa0144088aca"
+    }
+  ],
+  "removedFileCount": 75,
+  "removedBytes": 13454081,
+  "removedPublicFiles": 67,
+  "removedPublicBytes": 1989566,
+  "status": "passed",
+  "publicAfter": {
+    "files": 73,
+    "bytes": 2245984
+  },
+  "checks": [
+    {
+      "name": "Every planned obsolete file removed",
+      "pass": true
+    },
+    {
+      "name": "Twelve generated HTML documents unchanged",
+      "pass": true
+    },
+    {
+      "name": "Consumed client CSS and JS unchanged",
+      "pass": true
+    },
+    {
+      "name": "All remaining public assets have consumers or source-image purpose",
+      "pass": true
+    },
+    {
+      "name": "Preview exactly mirrors current public paths",
+      "pass": true
+    },
+    {
+      "name": "Browser suite: routes, four widths, gallery, focus and booking event",
+      "pass": true
+    },
+    {
+      "name": "Documentation links resolve",
+      "pass": true,
+      "details": []
+    },
+    {
+      "name": "Image regeneration does not recreate unused logo variant",
+      "pass": true
+    }
+  ],
+  "validatedAtUtc": "2026-11-04T01:44:10.029Z"
+}

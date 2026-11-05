@@ -1,0 +1,215 @@
+{
+  "scope": "One sequential baseline navigation per profile; candidate remeasured after fixing initial mobile CLS. Both versions served locally by the same HTTP server with identical no-cache policy. Ads/Analytics deliberately blocked. Not production performance, revenue, INP or field CWV. Baseline localhost HTTP can behave differently from HTTPS for legacy font requests.",
+  "records": [
+    {
+      "version": "baseline",
+      "profile": "mobile",
+      "fetchTime": "2026-11-04T00:21:24.044Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 63,
+        "accessibility": 87,
+        "best-practices": 77,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 9994.627200000003,
+        "first-contentful-paint": 3973.7159999999994,
+        "total-blocking-time": 122,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 2037494
+      },
+      "errors": null,
+      "warnings": [],
+      "screen": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      },
+      "blockedPatterns": [
+        "*googlesyndication.com/*",
+        "*doubleclick.net/*",
+        "*googleadservices.com/*",
+        "*googletagservices.com/*",
+        "*google-analytics.com/*",
+        "*googletagmanager.com/*"
+      ],
+      "adAnalyticsBlocked": true,
+      "accessibilityFindings": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio."
+        },
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name"
+        },
+        {
+          "id": "landmark-one-main",
+          "title": "Document does not have a main landmark."
+        }
+      ]
+    },
+    {
+      "version": "candidate",
+      "profile": "mobile",
+      "fetchTime": "2026-11-04T00:23:43.662Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 2262.9304,
+        "first-contentful-paint": 1084.4652,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 285766
+      },
+      "errors": null,
+      "warnings": [],
+      "screen": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      },
+      "blockedPatterns": [
+        "*googlesyndication.com/*",
+        "*doubleclick.net/*",
+        "*googleadservices.com/*",
+        "*googletagservices.com/*",
+        "*google-analytics.com/*",
+        "*googletagmanager.com/*"
+      ],
+      "adAnalyticsBlocked": true,
+      "accessibilityFindings": []
+    },
+    {
+      "version": "baseline",
+      "profile": "desktop",
+      "fetchTime": "2026-11-04T00:21:55.632Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 92,
+        "accessibility": 87,
+        "best-practices": 81,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 1805.17015,
+        "first-contentful-paint": 645.3982,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 2037704
+      },
+      "errors": null,
+      "warnings": [],
+      "screen": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      },
+      "blockedPatterns": [
+        "*googlesyndication.com/*",
+        "*doubleclick.net/*",
+        "*googleadservices.com/*",
+        "*googletagservices.com/*",
+        "*google-analytics.com/*",
+        "*googletagmanager.com/*"
+      ],
+      "adAnalyticsBlocked": true,
+      "accessibilityFindings": [
+        {
+          "id": "color-contrast",
+          "title": "Background and foreground colors do not have a sufficient contrast ratio."
+        },
+        {
+          "id": "link-name",
+          "title": "Links do not have a discernible name"
+        },
+        {
+          "id": "landmark-one-main",
+          "title": "Document does not have a main landmark."
+        }
+      ]
+    },
+    {
+      "version": "candidate",
+      "profile": "desktop",
+      "fetchTime": "2026-11-04T00:23:59.261Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 555.8597,
+        "first-contentful-paint": 292.92985,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 420517
+      },
+      "errors": null,
+      "warnings": [],
+      "screen": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      },
+      "blockedPatterns": [
+        "*googlesyndication.com/*",
+        "*doubleclick.net/*",
+        "*googleadservices.com/*",
+        "*googletagservices.com/*",
+        "*google-analytics.com/*",
+        "*googletagmanager.com/*"
+      ],
+      "adAnalyticsBlocked": true,
+      "accessibilityFindings": []
+    }
+  ]
+}

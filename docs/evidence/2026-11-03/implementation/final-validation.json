@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-03",
+  "validatedAtUtc": "2026-11-04T00:35:28.742Z",
+  "scope": "Local deliverables only. Not remote CI, Firebase release or production verification. Pattern scanning is not a universal secret audit.",
+  "checks": [
+    {
+      "name": "YAML parses: firebase-hosting-merge.yml",
+      "pass": true
+    },
+    {
+      "name": "Production trigger is manual only",
+      "pass": true
+    },
+    {
+      "name": "YAML parses: firebase-hosting-pull-request.yml",
+      "pass": true
+    },
+    {
+      "name": "Preview is isolated and temporary",
+      "pass": true
+    },
+    {
+      "name": "YAML parses: site-check.yml",
+      "pass": true
+    },
+    {
+      "name": "All 98 snapshot hashes verified",
+      "pass": true
+    },
+    {
+      "name": "Previously tracked public paths retained",
+      "pass": true
+    },
+    {
+      "name": "Build idempotent",
+      "pass": true
+    },
+    {
+      "name": "Static validation passes",
+      "pass": true,
+      "detail": "12 documents, 358 local references, 34 Booksy destinations"
+    },
+    {
+      "name": "Preview does not alter production HTML",
+      "pass": true
+    },
+    {
+      "name": "Preview HTML excludes Google loaders and GA init",
+      "pass": true
+    },
+    {
+      "name": "Preview headers include noindex",
+      "pass": true
+    },
+    {
+      "name": "Production config has no noindex",
+      "pass": true
+    },
+    {
+      "name": "Immutable cache only for hashed images",
+      "pass": true
+    },
+    {
+      "name": "Browser suite passed",
+      "pass": true,
+      "detail": "19 route/viewport/feature groups"
+    },
+    {
+      "name": "Lighthouse runs completed with tracking blocked",
+      "pass": true
+    },
+    {
+      "name": "Final candidate CLS zero for both profiles",
+      "pass": true
+    },
+    {
+      "name": "Markdown links resolve",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No recognized credential patterns",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "Evidence contains no email addresses",
+      "pass": true
+    },
+    {
+      "name": "git diff --check",
+      "pass": true
+    },
+    {
+      "name": "Owner review preview makes no external requests",
+      "pass": true,
+      "detail": "http://127.0.0.1:4175; Google loaders removed from isolated copy"
+    }
+  ],
+  "pass": true
+}
