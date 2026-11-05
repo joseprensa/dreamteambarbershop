@@ -1,0 +1,14 @@
+{
+  "chromeFlags": "--headless=new --disable-gpu",
+  "onlyCategories": ["performance", "accessibility", "best-practices", "seo"],
+  "output": ["json", "html"],
+  "enableErrorReporting": false,
+  "blockedUrlPatterns": [
+    "*googlesyndication.com/*",
+    "*doubleclick.net/*",
+    "*googleadservices.com/*",
+    "*googletagservices.com/*",
+    "*google-analytics.com/*",
+    "*googletagmanager.com/*"
+  ]
+}
