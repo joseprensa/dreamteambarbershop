@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-03",
+  "measuredAtUtc": "2026-11-04T03:51:31.053Z",
+  "baseCommit": "16b1e1bc649e2d3c0414621b7c9c7c2462cbf51b",
+  "status": "passed",
+  "scope": "Local source preparation only. No deployment, account changes, forms, bookings, real ads or external analytics events. Private AdSense financial/session data intentionally excluded.",
+  "checks": [
+    {
+      "name": "Static route, source destination, metadata and size budgets",
+      "status": "passed",
+      "detail": {
+        "status": "passed",
+        "documents": 13,
+        "uniqueTitles": 13,
+        "localReferences": 437,
+        "bookingLinksChecked": 36,
+        "publicFiles": 74,
+        "orphanAssets": 0,
+        "performance": {
+          "cssBytes": 16355,
+          "javascriptBytes": 3602,
+          "largestHtml": {
+            "file": "index.html",
+            "bytes": 22726
+          },
+          "largestOptimizedImageBytes": 125712,
+          "budgets": {
+            "htmlBytes": 40960,
+            "cssBytes": 24576,
+            "javascriptBytes": 8192,
+            "optimizedImageBytes": 131072,
+            "localStylesheetsPerPage": 1,
+            "localScriptsPerPage": 1
+          }
+        },
+        "checks": "Case-sensitive assets and srcsets, no orphan assets, article contents/headings, size and dependency budgets, fragments, landmarks, dimensions, source destinations, script counts, schema JSON, sitemap, syntax."
+      }
+    },
+    {
+      "name": "Idempotent generation",
+      "status": "passed",
+      "detail": {
+        "documentsAndMetadata": 16
+      }
+    },
+    {
+      "name": "Original source content, business destinations, JS and ads.txt preserved",
+      "status": "passed"
+    },
+    {
+      "name": "Isolated preview mirrors public files without live Google tags",
+      "status": "passed",
+      "detail": {
+        "files": 74
+      }
+    },
+    {
+      "name": "Browser routes, source text, editorial navigation and responsive images",
+      "status": "passed",
+      "detail": {
+        "groups": 21,
+        "measuredAtUtc": "2026-11-04T03:48:56.039Z"
+      }
+    },
+    {
+      "name": "Final Lighthouse reports and source fingerprints",
+      "status": "passed",
+      "detail": {
+        "profiles": 6,
+        "scope": "One final sequential Lighthouse 13.6.0 run per page/profile against isolated localhost preview. No Google loaders, no external requests, no real ads or analytics. Different collection time from previous candidate: not a controlled proof of further speed uplift, production CWV, INP or revenue. Complete JSON reports are retained outside the public repository; hashes recorded here."
+      }
+    }
+  ]
+}

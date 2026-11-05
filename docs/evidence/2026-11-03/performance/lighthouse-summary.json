@@ -1,0 +1,485 @@
+{
+  "baseCommit": "16b1e1bc649e2d3c0414621b7c9c7c2462cbf51b",
+  "measuredAtUtc": "2026-11-04T03:49:43.491Z",
+  "scope": "One final sequential Lighthouse 13.6.0 run per page/profile against isolated localhost preview. No Google loaders, no external requests, no real ads or analytics. Different collection time from previous candidate: not a controlled proof of further speed uplift, production CWV, INP or revenue. Complete JSON reports are retained outside the public repository; hashes recorded here.",
+  "sourceSha256": {
+    "css/site.css": "384d8709efc4ad4519134c9c9931b0e0f2ab9ad9787262b058b89defb59e704d",
+    "js/site.js": "00e301a768b3e7767a3373bd368254c2a8297b70ec21b26843ec29fbf61faf70",
+    "index.html": "e14bcd9ffb744ea1deccfef63d4f3346c600ac07e1d9a22d0b4271e33e27ed9f",
+    "barber-tips.html": "730a2085b73ebc9a193f26b47edf33c28b98568de587e436bfb2f2eb707a6595",
+    "beardgrowth.html": "972c7f82b891191508f20667286a1af5b09ab3c76ece369f269afe14fbbe22e1"
+  },
+  "imageFix": "Initial desktop article audit detected an original 427px portrait stretched to 810px. Final HTML explicitly caps width at source pixels and sizes reflects the actual layout; CSS centers the image. Browser checks cover the intrinsic-size rule across all six articles. Both article profiles were remeasured after this fix. The initial failing report is retained outside the public repository.",
+  "reports": [
+    {
+      "page": "index.html",
+      "profile": "mobile",
+      "fetchTime": "2026-11-04T03:45:13.124Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 1967.4704999999997,
+        "first-contentful-paint": 1505.4705,
+        "total-blocking-time": 100.86762499999998,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 287239
+      },
+      "runtimeError": null,
+      "warnings": [],
+      "externalRequests": [],
+      "screen": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      },
+      "failedAudits": {
+        "performance": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint"
+          },
+          {
+            "id": "largest-contentful-paint",
+            "title": "Largest Contentful Paint"
+          },
+          {
+            "id": "total-blocking-time",
+            "title": "Total Blocking Time"
+          },
+          {
+            "id": "speed-index",
+            "title": "Speed Index"
+          },
+          {
+            "id": "document-latency-insight",
+            "title": "Document request latency"
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree"
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render-blocking requests"
+          },
+          {
+            "id": "interactive",
+            "title": "Time to Interactive"
+          },
+          {
+            "id": "max-potential-fid",
+            "title": "Max Potential First Input Delay"
+          }
+        ],
+        "accessibility": [],
+        "best-practices": [],
+        "seo": []
+      },
+      "rawReport": {
+        "relativePath": "../dreamteam-barbershop-backups/performance-20261103/index-mobile.json",
+        "bytes": 466296,
+        "sha256": "d3aacc3befdd931db709e81713dbb86c46270301601b5c435e556b05a6728f5d"
+      }
+    },
+    {
+      "page": "index.html",
+      "profile": "desktop",
+      "fetchTime": "2026-11-04T03:45:28.080Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 468.9951,
+        "first-contentful-paint": 356.49755,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 421990
+      },
+      "runtimeError": null,
+      "warnings": [],
+      "externalRequests": [],
+      "screen": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      },
+      "failedAudits": {
+        "performance": [
+          {
+            "id": "document-latency-insight",
+            "title": "Document request latency"
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree"
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render-blocking requests"
+          },
+          {
+            "id": "max-potential-fid",
+            "title": "Max Potential First Input Delay"
+          }
+        ],
+        "accessibility": [],
+        "best-practices": [],
+        "seo": []
+      },
+      "rawReport": {
+        "relativePath": "../dreamteam-barbershop-backups/performance-20261103/index-desktop.json",
+        "bytes": 576510,
+        "sha256": "c034a2bde9511b95057c5f80efed8f2e57ba2c4a1c2a4c7e265c7b14aff00b40"
+      }
+    },
+    {
+      "page": "barber-tips.html",
+      "profile": "mobile",
+      "fetchTime": "2026-11-04T03:45:42.248Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 1241.1024,
+        "first-contentful-paint": 1241.1024,
+        "total-blocking-time": 97.02560000000005,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 114514
+      },
+      "runtimeError": null,
+      "warnings": [],
+      "externalRequests": [],
+      "screen": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      },
+      "failedAudits": {
+        "performance": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint"
+          },
+          {
+            "id": "total-blocking-time",
+            "title": "Total Blocking Time"
+          },
+          {
+            "id": "speed-index",
+            "title": "Speed Index"
+          },
+          {
+            "id": "document-latency-insight",
+            "title": "Document request latency"
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree"
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render-blocking requests"
+          },
+          {
+            "id": "max-potential-fid",
+            "title": "Max Potential First Input Delay"
+          }
+        ],
+        "accessibility": [],
+        "best-practices": [],
+        "seo": []
+      },
+      "rawReport": {
+        "relativePath": "../dreamteam-barbershop-backups/performance-20261103/barber-tips-mobile.json",
+        "bytes": 450984,
+        "sha256": "c04a0827160155a5c338a20732a6cfe2025bb924e071a6dc382b88d4dcfd4047"
+      }
+    },
+    {
+      "page": "barber-tips.html",
+      "profile": "desktop",
+      "fetchTime": "2026-11-04T03:45:57.377Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 271.6684,
+        "first-contentful-paint": 271.6684,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 219196
+      },
+      "runtimeError": null,
+      "warnings": [],
+      "externalRequests": [],
+      "screen": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      },
+      "failedAudits": {
+        "performance": [
+          {
+            "id": "document-latency-insight",
+            "title": "Document request latency"
+          },
+          {
+            "id": "forced-reflow-insight",
+            "title": "Forced reflow"
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree"
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render-blocking requests"
+          },
+          {
+            "id": "max-potential-fid",
+            "title": "Max Potential First Input Delay"
+          },
+          {
+            "id": "unused-css-rules",
+            "title": "Reduce unused CSS"
+          }
+        ],
+        "accessibility": [],
+        "best-practices": [],
+        "seo": []
+      },
+      "rawReport": {
+        "relativePath": "../dreamteam-barbershop-backups/performance-20261103/barber-tips-desktop.json",
+        "bytes": 493747,
+        "sha256": "d88ab72c950447eb071720d153858c9cb2270d5a434241600048d9ecaa5f9601"
+      }
+    },
+    {
+      "page": "beardgrowth.html",
+      "profile": "mobile",
+      "fetchTime": "2026-11-04T03:49:02.577Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 1409.0518,
+        "first-contentful-paint": 1409.0518,
+        "total-blocking-time": 100.01294999999993,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 110136
+      },
+      "runtimeError": null,
+      "warnings": [],
+      "externalRequests": [],
+      "screen": {
+        "mobile": true,
+        "width": 412,
+        "height": 823,
+        "deviceScaleFactor": 1.75,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      },
+      "failedAudits": {
+        "performance": [
+          {
+            "id": "first-contentful-paint",
+            "title": "First Contentful Paint"
+          },
+          {
+            "id": "total-blocking-time",
+            "title": "Total Blocking Time"
+          },
+          {
+            "id": "speed-index",
+            "title": "Speed Index"
+          },
+          {
+            "id": "document-latency-insight",
+            "title": "Document request latency"
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree"
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render-blocking requests"
+          },
+          {
+            "id": "max-potential-fid",
+            "title": "Max Potential First Input Delay"
+          }
+        ],
+        "accessibility": [],
+        "best-practices": [],
+        "seo": []
+      },
+      "rawReport": {
+        "relativePath": "../dreamteam-barbershop-backups/performance-20261103/beardgrowth-mobile.json",
+        "bytes": 472121,
+        "sha256": "9a27eb7c536014ae1b21edcda1b2195a0b66de9c282f50302ff80c521e047a44"
+      }
+    },
+    {
+      "page": "beardgrowth.html",
+      "profile": "desktop",
+      "fetchTime": "2026-11-04T03:49:17.475Z",
+      "lighthouseVersion": "13.6.0",
+      "categories": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "metrics": {
+        "largest-contentful-paint": 314.33585,
+        "first-contentful-paint": 314.33585,
+        "total-blocking-time": 0,
+        "cumulative-layout-shift": 0,
+        "total-byte-weight": 178798
+      },
+      "runtimeError": null,
+      "warnings": [],
+      "externalRequests": [],
+      "screen": {
+        "mobile": false,
+        "width": 1350,
+        "height": 940,
+        "deviceScaleFactor": 1,
+        "disabled": false
+      },
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      },
+      "failedAudits": {
+        "performance": [
+          {
+            "id": "document-latency-insight",
+            "title": "Document request latency"
+          },
+          {
+            "id": "image-delivery-insight",
+            "title": "Improve image delivery"
+          },
+          {
+            "id": "network-dependency-tree-insight",
+            "title": "Network dependency tree"
+          },
+          {
+            "id": "render-blocking-insight",
+            "title": "Render-blocking requests"
+          },
+          {
+            "id": "max-potential-fid",
+            "title": "Max Potential First Input Delay"
+          },
+          {
+            "id": "unused-css-rules",
+            "title": "Reduce unused CSS"
+          }
+        ],
+        "accessibility": [],
+        "best-practices": [],
+        "seo": []
+      },
+      "rawReport": {
+        "relativePath": "../dreamteam-barbershop-backups/performance-20261103/beardgrowth-desktop.json",
+        "bytes": 512205,
+        "sha256": "d3b8947d277a09742688139e12581d15f7788ec1d7beaec024a40f7eae4863f2"
+      }
+    }
+  ]
+}

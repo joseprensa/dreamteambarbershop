@@ -1,0 +1,306 @@
+{
+  "images/banner/billar.jpg": {
+    "width": 2048,
+    "height": 1365,
+    "originalBytes": 318753,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/banner-billar-320-4a4f9aab61.webp",
+        "bytes": 11348
+      },
+      {
+        "width": 640,
+        "src": "images/optimized/banner-billar-640-655895b55a.webp",
+        "bytes": 27048
+      },
+      {
+        "width": 960,
+        "src": "images/optimized/banner-billar-960-442dccd34d.webp",
+        "bytes": 44612
+      },
+      {
+        "width": 1440,
+        "src": "images/optimized/banner-billar-1440-bb4f2618e6.webp",
+        "bytes": 75154
+      },
+      {
+        "width": 2048,
+        "src": "images/optimized/banner-billar-2048-6ef3383e47.webp",
+        "bytes": 125712
+      }
+    ]
+  },
+  "images/about.jpg": {
+    "width": 361,
+    "height": 286,
+    "originalBytes": 54694,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/about-320-62d1f5d29e.webp",
+        "bytes": 16510
+      },
+      {
+        "width": 361,
+        "src": "images/optimized/about-361-7a206b7a48.webp",
+        "bytes": 20410
+      }
+    ]
+  },
+  "images/team/04.jpg": {
+    "width": 600,
+    "height": 400,
+    "originalBytes": 123299,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/team-04-320-d3995339db.webp",
+        "bytes": 16222
+      },
+      {
+        "width": 600,
+        "src": "images/optimized/team-04-600-e70f316b81.webp",
+        "bytes": 50418
+      }
+    ]
+  },
+  "images/portfolio/01.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 33336,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-01-320-e7264ae3f4.webp",
+        "bytes": 22744
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-01-360-31d4eb9183.webp",
+        "bytes": 29162
+      }
+    ]
+  },
+  "images/portfolio/02.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 27499,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-02-320-bfb7b727a6.webp",
+        "bytes": 18126
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-02-360-cbc1356faa.webp",
+        "bytes": 22722
+      }
+    ]
+  },
+  "images/portfolio/03.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 27796,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-03-320-85d10f1c20.webp",
+        "bytes": 16434
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-03-360-ef6c4b195b.webp",
+        "bytes": 20618
+      }
+    ]
+  },
+  "images/portfolio/04.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 24114,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-04-320-e7efaa51a4.webp",
+        "bytes": 13660
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-04-360-cda7e7d825.webp",
+        "bytes": 17110
+      }
+    ]
+  },
+  "images/portfolio/05.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 18727,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-05-320-1b8265a8b0.webp",
+        "bytes": 9086
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-05-360-53b45e3de5.webp",
+        "bytes": 11928
+      }
+    ]
+  },
+  "images/portfolio/06.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 29182,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-06-320-dc58a833ba.webp",
+        "bytes": 18022
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-06-360-713d607c19.webp",
+        "bytes": 22150
+      }
+    ]
+  },
+  "images/portfolio/07.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 27895,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-07-320-13f0797c9a.webp",
+        "bytes": 16532
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-07-360-31c7baa68f.webp",
+        "bytes": 20802
+      }
+    ]
+  },
+  "images/portfolio/08.jpg": {
+    "width": 360,
+    "height": 360,
+    "originalBytes": 31527,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/portfolio-08-320-96d3152ff1.webp",
+        "bytes": 19896
+      },
+      {
+        "width": 360,
+        "src": "images/optimized/portfolio-08-360-72ae54636f.webp",
+        "bytes": 24558
+      }
+    ]
+  },
+  "images/articulo/beardgrowth.jpg": {
+    "width": 427,
+    "height": 493,
+    "originalBytes": 61231,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/articulo-beardgrowth-320-b5cb747027.webp",
+        "bytes": 11338
+      },
+      {
+        "width": 427,
+        "src": "images/optimized/articulo-beardgrowth-427-75d4964b40.webp",
+        "bytes": 18754
+      }
+    ]
+  },
+  "images/articulo/beardhealth.jpg": {
+    "width": 525,
+    "height": 427,
+    "originalBytes": 66604,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/articulo-beardhealth-320-437ba77633.webp",
+        "bytes": 10862
+      },
+      {
+        "width": 525,
+        "src": "images/optimized/articulo-beardhealth-525-0abcd8ff96.webp",
+        "bytes": 24254
+      }
+    ]
+  },
+  "images/articulo/hairroot&tip.jpg": {
+    "width": 640,
+    "height": 640,
+    "originalBytes": 66308,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/articulo-hairroot-tip-320-80eaa4ca2c.webp",
+        "bytes": 14150
+      },
+      {
+        "width": 640,
+        "src": "images/optimized/articulo-hairroot-tip-640-1b0c0691ba.webp",
+        "bytes": 44412
+      }
+    ]
+  },
+  "images/articulo/hairtype.png": {
+    "width": 640,
+    "height": 575,
+    "originalBytes": 107143,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/articulo-hairtype-320-51d26efc2a.webp",
+        "bytes": 22480
+      },
+      {
+        "width": 640,
+        "src": "images/optimized/articulo-hairtype-640-337c0b2939.webp",
+        "bytes": 47488
+      }
+    ]
+  },
+  "images/articulo/healthyscalp.jpg": {
+    "width": 640,
+    "height": 480,
+    "originalBytes": 69213,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/articulo-healthyscalp-320-386cf519e6.webp",
+        "bytes": 8528
+      },
+      {
+        "width": 640,
+        "src": "images/optimized/articulo-healthyscalp-640-b00ddb98fc.webp",
+        "bytes": 31096
+      }
+    ]
+  },
+  "images/articulo/itchyscalp.jpg": {
+    "width": 640,
+    "height": 425,
+    "originalBytes": 32189,
+    "variants": [
+      {
+        "width": 320,
+        "src": "images/optimized/articulo-itchyscalp-320-a9df3df824.webp",
+        "bytes": 4118
+      },
+      {
+        "width": 640,
+        "src": "images/optimized/articulo-itchyscalp-640-5cfb205e3a.webp",
+        "bytes": 10154
+      }
+    ]
+  }
+}

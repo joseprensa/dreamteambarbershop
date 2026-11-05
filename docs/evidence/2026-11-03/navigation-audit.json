@@ -1,0 +1,52 @@
+{
+  "measuredAtUtc": "2026-11-03T23:41:25.042Z",
+  "results": [
+    {
+      "width": 390,
+      "missingAnchors": [
+        "#infomation"
+      ],
+      "hiddenAfterScroll": [],
+      "services": {
+        "scrollY": 695,
+        "top": 5
+      },
+      "articleNavigation": null,
+      "errors": [
+        "$(...).prettyPhoto is not a function"
+      ],
+      "consoleErrors": [
+        "Mixed Content: The page at 'https://dreamteambarbershop.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Raleway:400,700,500'. This request has been blocked; the content must be served over HTTPS.",
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "noAdsOrAnalytics": true,
+      "noFormsSubmitted": true
+    },
+    {
+      "width": 1440,
+      "missingAnchors": [
+        "#infomation"
+      ],
+      "hiddenAfterScroll": [],
+      "services": {
+        "scrollY": 695,
+        "top": 5
+      },
+      "articleNavigation": {
+        "method": "visible menu click",
+        "url": "https://dreamteambarbershop.com/hairtype.html"
+      },
+      "errors": [
+        "$(...).prettyPhoto is not a function",
+        "Cannot read properties of undefined (reading 'top')"
+      ],
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Mixed Content: The page at 'https://dreamteambarbershop.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Raleway:400,700,500'. This request has been blocked; the content must be served over HTTPS.",
+        "Mixed Content: The page at 'https://dreamteambarbershop.com/hairtype.html' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Raleway:400,700,500'. This request has been blocked; the content must be served over HTTPS."
+      ],
+      "noAdsOrAnalytics": true,
+      "noFormsSubmitted": true
+    }
+  ]
+}

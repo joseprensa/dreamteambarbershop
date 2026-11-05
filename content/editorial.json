@@ -1,0 +1,48 @@
+{
+  "hairtipsandroots.html": {
+    "title": "5 Tips for Split Ends",
+    "description": "Practical hair care tips from Dream Team Barbershop: regular trims, gentle styling and caring for your ends.",
+    "summary": "Explore trims, conditioning, styling heat, gentle brushing and sun protection in this five-tip guide.",
+    "category": "Hair care",
+    "sections": ["Tip 1: Regular trim", "Tip 2: Proper hydration", "Tip 3: Avoid excessive heat", "Tip 4: Smooth brushing and combing", "Tip 5: Sun protection"]
+  },
+  "hairtype.html": {
+    "title": "Choosing Shampoo for Your Hair Type",
+    "description": "Explore hair types and shampoo choices in this grooming guide from Dream Team Barbershop in Florence, KY.",
+    "summary": "Start with your hair type, then explore the guide’s suggestions for reading shampoo labels and choosing products.",
+    "category": "Hair care",
+    "sections": ["Identify your hair type:", "Tips for choosing the right shampoo:"]
+  },
+  "beardhealth.html": {
+    "title": "Keeping Your Beard Soft and Tangle-Free",
+    "description": "A beard grooming guide covering washing, conditioning, combing and regular trims from Dream Team Barbershop.",
+    "summary": "Read about washing, beard balm, combing and trimming as parts of an everyday beard routine.",
+    "category": "Beard care",
+    "sections": ["Tip 1: Proper Cleaning", "Tip 3: Using beard balm", "Tip 4: Regular hairstyle", "Tip 5: Trimming ends"]
+  },
+  "beardgrowth.html": {
+    "title": "A Guide to Caring for Your First Beard",
+    "description": "Starting a beard? Explore a simple grooming routine for cleaning, conditioning, combing and shaping facial hair.",
+    "summary": "Follow the guide’s five sections, from growing your beard to cleaning, conditioning, combing and shaping it.",
+    "category": "Beard care",
+    "sections": ["Step 1: Grow the beard", "Step 2: Daily cleaning", "Step 3: Moisturize and Condition", "Step 4: Combing and detangling", "Step 5: Trimming and Maintenance"]
+  },
+  "healthyscalp.html": {
+    "title": "Everyday Scalp Care",
+    "description": "Explore a guide to scalp cleansing, washing habits and everyday hair care at Dream Team Barbershop.",
+    "summary": "Browse the scalp care guide’s sections on cleansing, washing habits, massage, hydration and protection.",
+    "category": "Scalp care",
+    "sections": ["Tip 1: Proper Cleaning", "Tip 2: Avoid over-washing", "Tip 3: Scalp massage", "Tip 4: Proper hydration", "Tip 5: Sun and thermal protection"]
+  },
+  "itchyscalp.html": {
+    "title": "Caring for an Itchy Scalp",
+    "description": "Read our scalp care guide and explore everyday grooming habits. Persistent symptoms need a qualified health professional.",
+    "summary": "Browse the scalp care guide. Persistent symptoms need advice from a qualified healthcare professional.",
+    "category": "Scalp care",
+    "sections": ["Tip 1: Keep your scalp clean", "Tip 2: Avoid scratching", "Tip 3: Use natural remedies", "Tip 4: Avoid irritating products"]
+  },
+  "Cookiespolicy.html": {"title": "Cookies Policy", "description": "Read the cookies policy for Dream Team Barbershop and its use of Google AdSense."},
+  "advertisingpolicy.html": {"title": "Advertising Policy", "description": "Learn about third-party advertising and the advertising policy for Dream Team Barbershop."},
+  "PrivacyPolicy.html": {"title": "Privacy Policy", "description": "Read the privacy policy for Dream Team Barbershop, including information about Google AdSense."},
+  "Termsandconditionsofuse.html": {"title": "Terms and Conditions", "description": "Read the terms and conditions for using the Dream Team Barbershop website."}
+}

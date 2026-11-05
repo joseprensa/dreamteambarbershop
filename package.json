@@ -1,0 +1,13 @@
+{
+  "name": "dream-team-barbershop",
+  "private": true,
+  "version": "1.0.0",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node tools/build-site.cjs",
+    "check": "node tools/check-site.cjs",
+    "test": "node tools/check-site.cjs",
+    "preview": "node tools/preview.cjs",
+    "test:browser": "node tools/browser-check.cjs"
+  }
+}
