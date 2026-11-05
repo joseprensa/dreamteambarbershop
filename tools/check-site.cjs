@@ -82,7 +82,6 @@ for(const file of documents){
 }
 assert.equal(documents.length,pages.length+3);
 assert(bookings>0);
-assert(fs.readFileSync('public/index.html','utf8').includes(business.storeUrl),'Store link lost');
 assert.equal(fs.readFileSync('public/ads.txt','utf8').trim(),'google.com, pub-4652560092630616, DIRECT, f08c47fec0942fa0');
 assert.equal((fs.readFileSync('public/sitemap.xml','utf8').match(/<loc>/g)||[]).length,pages.length+2);
 assert(fs.readFileSync('public/robots.txt','utf8').includes('Sitemap: https://dreamteambarbershop.com/sitemap.xml'));

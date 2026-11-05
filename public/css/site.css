@@ -26,8 +26,6 @@ address{font-style:normal}
 .button{display:inline-flex;align-items:center;justify-content:center;gap:24px;min-height:52px;padding:14px 23px;border:1px solid var(--blue);border-radius:var(--radius);background:var(--blue);color:#fff;font-size:.9rem;font-weight:700;text-decoration:none;line-height:1.35;transition:background .15s,border-color .15s}
 .button:hover{color:#fff;background:#082c58;border-color:#082c58;text-decoration:none}
 .button:focus-visible{outline-color:var(--red)}
-.button-outline{border-color:#e8e9ed;background:transparent;color:#fff}
-.button-outline:hover{background:#fff;color:var(--ink);border-color:#fff}
 .button-small{min-height:44px;padding:11px 17px;font-size:.82rem;gap:12px}
 .skip-link{position:fixed;z-index:100;top:8px;left:16px;transform:translateY(-200%);background:#fff;padding:12px 20px}
 .skip-link:focus{transform:none}
