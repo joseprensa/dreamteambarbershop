@@ -1,0 +1,6029 @@
+{
+  "date": "2026-11-03",
+  "timeZone": "America/New_York",
+  "measuredAtUtc": "2026-11-03T23:39:34.440Z",
+  "origin": "https://dreamteambarbershop.com",
+  "browserVersion": "155.0.8059.85",
+  "scope": "Public GET requests; runtime limited to homepage; repository unavailable.",
+  "pages": [
+    {
+      "url": "https://dreamteambarbershop.com/",
+      "finalUrl": "https://dreamteambarbershop.com/",
+      "status": 200,
+      "elapsedMs": 474,
+      "bytes": 21576,
+      "sha256": "fdba3e5d04e6b0fdd6ff7b5a4b4e5a79f8b057d06d122f3ccb0c949b15c55cf1",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Kentucky's best barbershop."
+        },
+        {
+          "level": "H2",
+          "text": "We offer exceptional quality services and impeccable results."
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "Whats Best For You"
+        },
+        {
+          "level": "H4",
+          "text": "Regular Haircut"
+        },
+        {
+          "level": "H4",
+          "text": "Kids Cut"
+        },
+        {
+          "level": "H4",
+          "text": "Haircut and shave"
+        },
+        {
+          "level": "H2",
+          "text": "Who we are"
+        },
+        {
+          "level": "H3",
+          "text": "Our Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "OUR TEAM"
+        },
+        {
+          "level": "H3",
+          "text": "The Barbers"
+        },
+        {
+          "level": "H2",
+          "text": "Gallery"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/#home",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Services",
+          "href": "https://dreamteambarbershop.com/#services",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "About",
+          "href": "https://dreamteambarbershop.com/#about",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Team",
+          "href": "https://dreamteambarbershop.com/#our-team",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Gallery",
+          "href": "https://dreamteambarbershop.com/#portfolio",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Store",
+          "href": "https://dreamteambarbershop.printify.me/products",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/01.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/02.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/03.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/04.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/05.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/06.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/07.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/08.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/about.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/team/04.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/01.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/02.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/03.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/04.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/05.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/06.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/07.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/08.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 408,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Services Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy About Team Gallery Contact Kentucky's best barbershop. We offer exceptional quality services and impeccable results. Visit our clothing store. Store MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 Whats Best For You Experience personalized grooming excellence at Dream Team barber shop. rust us to deliver the best services tailored to your unique style and preferences. Regular Haircut Get the perfect haircut at Dream Team b"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/index.html",
+      "finalUrl": "https://dreamteambarbershop.com/index.html",
+      "status": 200,
+      "elapsedMs": 205,
+      "bytes": 21576,
+      "sha256": "fdba3e5d04e6b0fdd6ff7b5a4b4e5a79f8b057d06d122f3ccb0c949b15c55cf1",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Kentucky's best barbershop."
+        },
+        {
+          "level": "H2",
+          "text": "We offer exceptional quality services and impeccable results."
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "Whats Best For You"
+        },
+        {
+          "level": "H4",
+          "text": "Regular Haircut"
+        },
+        {
+          "level": "H4",
+          "text": "Kids Cut"
+        },
+        {
+          "level": "H4",
+          "text": "Haircut and shave"
+        },
+        {
+          "level": "H2",
+          "text": "Who we are"
+        },
+        {
+          "level": "H3",
+          "text": "Our Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "OUR TEAM"
+        },
+        {
+          "level": "H3",
+          "text": "The Barbers"
+        },
+        {
+          "level": "H2",
+          "text": "Gallery"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/index.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html#home",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Services",
+          "href": "https://dreamteambarbershop.com/index.html#services",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/index.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "About",
+          "href": "https://dreamteambarbershop.com/index.html#about",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Team",
+          "href": "https://dreamteambarbershop.com/index.html#our-team",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Gallery",
+          "href": "https://dreamteambarbershop.com/index.html#portfolio",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/index.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Store",
+          "href": "https://dreamteambarbershop.printify.me/products",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/01.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/02.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/03.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/04.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/05.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/06.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/07.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/images/portfolio/08.jpg",
+          "target": "",
+          "rel": "prettyPhoto",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/about.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/team/04.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/01.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/02.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/03.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/04.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/05.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/06.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/07.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/portfolio/08.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 408,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Services Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy About Team Gallery Contact Kentucky's best barbershop. We offer exceptional quality services and impeccable results. Visit our clothing store. Store MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 Whats Best For You Experience personalized grooming excellence at Dream Team barber shop. rust us to deliver the best services tailored to your unique style and preferences. Regular Haircut Get the perfect haircut at Dream Team b"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/hairtipsandroots.html",
+      "finalUrl": "https://dreamteambarbershop.com/hairtipsandroots.html",
+      "status": 200,
+      "elapsedMs": 268,
+      "bytes": 14781,
+      "sha256": "14d6a5fd3425339b875df9437ae0ad6ca01280f7ef8ed1d6bd27df4437076cbe",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Dream Team Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "The best Barber Shop in Florence"
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "5 Tips to Prevent and Treat Split Ends: Take care of your hair from root to tip."
+        },
+        {
+          "level": "H3",
+          "text": ""
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/articulo/hairroot&tip.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 517,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Dream Team Barber Shop The best Barber Shop in Florence We offer exceptional quality services and impeccable results. Come and experience the best in barber shop! MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 5 Tips to Prevent and Treat Split Ends: Take care of your hair from root to tip. Split ends are a common hair care problem and can make hair look damaged and lifeless. If you want to maintain healthy, radiant hair, p"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/hairtype.html",
+      "finalUrl": "https://dreamteambarbershop.com/hairtype.html",
+      "status": 200,
+      "elapsedMs": 225,
+      "bytes": 15476,
+      "sha256": "b9288720dfb46c31aa71e6f915c479b2b4984aa4d42be2b23f2f3ea128516c6b",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Dream Team Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "The best Barber Shop in Florence"
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "How to Choose the Right Shampoo for Your Hair Type: Complete Guide to Optimum Hair Care"
+        },
+        {
+          "level": "H3",
+          "text": ""
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/hairtype.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/hairtype.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/hairtype.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/articulo/hairtype.png",
+          "alt": "heir-type",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 584,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Dream Team Barber Shop The best Barber Shop in Florence We offer exceptional quality services and impeccable results. Come and experience the best in barber shop! MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 How to Choose the Right Shampoo for Your Hair Type: Complete Guide to Optimum Hair Care Shampoo is one of the essential products for hair care. However, with so many options available on the market, it can be overwhe"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/beardhealth.html",
+      "finalUrl": "https://dreamteambarbershop.com/beardhealth.html",
+      "status": 200,
+      "elapsedMs": 36,
+      "bytes": 15153,
+      "sha256": "a200ef432f87ed8bbbe7f00d2be2d13169e1006dbd9cdf706af0f7a39e223905",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Dream Team Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "The best Barber Shop in Florence"
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "Tips to Keep Your Beard Smooth and Tangle-Free: Essential Care for Flawless Facial Hair"
+        },
+        {
+          "level": "H3",
+          "text": ""
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/beardhealth.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/beardhealth.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/beardhealth.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/articulo/beardhealth.jpg",
+          "alt": "",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 557,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Dream Team Barber Shop The best Barber Shop in Florence We offer exceptional quality services and impeccable results. Come and experience the best in barber shop! MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 Tips to Keep Your Beard Smooth and Tangle-Free: Essential Care for Flawless Facial Hair A soft, tangle-free beard not only looks good, but feels amazing too. If you want to keep your beard in top condition, it's impo"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/beardgrowth.html",
+      "finalUrl": "https://dreamteambarbershop.com/beardgrowth.html",
+      "status": 200,
+      "elapsedMs": 352,
+      "bytes": 15088,
+      "sha256": "e3327f898d43f840c94668f5cbb189101511ca4b398eb73f0a7a9d60394da5d6",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Dream Team Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "The best Barber Shop in Florence"
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "How to Start Taking Care of the Beard from Scratch: Complete Guide for a Flawless Hairy Face."
+        },
+        {
+          "level": "H3",
+          "text": ""
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/articulo/beardgrowth.jpg",
+          "alt": "beard",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 555,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Dream Team Barber Shop The best Barber Shop in Florence We offer exceptional quality services and impeccable results. Come and experience the best in barber shop! MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 How to Start Taking Care of the Beard from Scratch: Complete Guide for a Flawless Hairy Face. When it comes to having an enviable beard, proper care is essential. Whether you're new to the world of beards or have dec"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/healthyscalp.html",
+      "finalUrl": "https://dreamteambarbershop.com/healthyscalp.html",
+      "status": 200,
+      "elapsedMs": 158,
+      "bytes": 14763,
+      "sha256": "aa3af41d97d4650542c8a8e90ab0a659ebdbbe86292e2312d43eafff9af13b19",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Dream Team Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "The best Barber Shop in Florence"
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "How to Maintain a Healthy Scalp: Tips for Optimum Care"
+        },
+        {
+          "level": "H3",
+          "text": ""
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/articulo/healthyscalp.jpg",
+          "alt": "scalp",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 491,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Dream Team Barber Shop The best Barber Shop in Florence We offer exceptional quality services and impeccable results. Come and experience the best in barber shop! MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 How to Maintain a Healthy Scalp: Tips for Optimum Care Scalp care is essential to maintain healthy, radiant hair. An unbalanced or problem scalp can affect the health and appearance of the hair. In this guide, we wil"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/itchyscalp.html",
+      "finalUrl": "https://dreamteambarbershop.com/itchyscalp.html",
+      "status": 200,
+      "elapsedMs": 188,
+      "bytes": 14763,
+      "sha256": "b6a644758186f76139c4197a57a1ddd5534a460d5f1fb222b6e645532fb6e88a",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H1",
+          "text": "Dream Team Barber Shop"
+        },
+        {
+          "level": "H2",
+          "text": "The best Barber Shop in Florence"
+        },
+        {
+          "level": "H3",
+          "text": "Location"
+        },
+        {
+          "level": "H2",
+          "text": "How to Relieve Itchy Scalp: Tips and Natural Remedies."
+        },
+        {
+          "level": "H3",
+          "text": ""
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "MAKE APPOINTMENT",
+          "href": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+          "target": "_blank",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Location\n                                \n                                Dream Team barber shop.\n                      ",
+          "href": "https://goo.gl/maps/qA6YhT8emwUgjep58",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        },
+        {
+          "src": "https://dreamteambarbershop.com/images/articulo/itchyscalp.jpg",
+          "alt": "coconut-oil",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [
+          "ca-pub-4652560092630616"
+        ],
+        "loaderCount": 1,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 1,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 484,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Dream Team Barber Shop The best Barber Shop in Florence We offer exceptional quality services and impeccable results. Come and experience the best in barber shop! MAKE APPOINTMENT Location Dream Team barber shop. 8167 Mall Rd, Florence, KY 41042 Phone: (859)371-4300 How to Relieve Itchy Scalp: Tips and Natural Remedies. An itchy scalp can be uncomfortable and annoying, and can have a variety of causes, including dryness, dandruff, seborrheic dermatitis, or an allergic reaction. "
+    },
+    {
+      "url": "https://dreamteambarbershop.com/Cookiespolicy.html",
+      "finalUrl": "https://dreamteambarbershop.com/Cookiespolicy.html",
+      "status": 200,
+      "elapsedMs": 145,
+      "bytes": 12853,
+      "sha256": "48ece1b8a82db8114953e94a6afc791a70a58f0884dd1d1bc4a281e71acebb31",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H2",
+          "text": "Cookies policy for Google AdSense on the Dream Team Barber Shop page."
+        },
+        {
+          "level": "H3",
+          "text": "What are cookies?"
+        },
+        {
+          "level": "H3",
+          "text": "How do we use Google AdSense cookies?"
+        },
+        {
+          "level": "H4",
+          "text": "How can you manage cookies?"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [],
+        "loaderCount": 0,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 0,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 544,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Cookies policy for Google AdSense on the Dream Team Barber Shop page. At Dream Team Barber Shop, we take the privacy and data protection of our visitors seriously. Therefore, we have created this cookie policy to inform you about the use of cookies on our website, specifically in relation to Google AdSense. What are cookies? Cookies are small text files that are stored on your device (such as your computer, mobile phone or tablet) when you visit a website. These files contain in"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/advertisingpolicy.html",
+      "finalUrl": "https://dreamteambarbershop.com/advertisingpolicy.html",
+      "status": 200,
+      "elapsedMs": 118,
+      "bytes": 13112,
+      "sha256": "3d0c12ffd454becb478b3c47a6a43d78a3f4ce0f6736c98e2c45afa3cc091bac",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H2",
+          "text": "Advertising Policy for Google AdSense on the Dream Team Barber Shop page."
+        },
+        {
+          "level": "H3",
+          "text": "Advertisements on our website"
+        },
+        {
+          "level": "H3",
+          "text": "Ad content guidelines"
+        },
+        {
+          "level": "H4",
+          "text": "User responsibility and interaction"
+        },
+        {
+          "level": "H4",
+          "text": "Your consent"
+        },
+        {
+          "level": "H4",
+          "text": "Advertising Policy Updates"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [],
+        "loaderCount": 0,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 0,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 477,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Advertising Policy for Google AdSense on the Dream Team Barber Shop page. At Dream Team Barber Shop, we strive to provide a positive and engaging browsing experience for our visitors. Therefore, we have created this advertising policy to outline the guidelines and standards for advertisements displayed on our website through Google AdSense. Advertisements on our website We use Google AdSense to display advertisements on our website. These advertisements are provided by third-par"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+      "finalUrl": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+      "status": 200,
+      "elapsedMs": 145,
+      "bytes": 12980,
+      "sha256": "34d171063917e1287108e5cc4dccfec96b9266fd43f17ab6842750b0af5f8d4d",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H2",
+          "text": "Privacy Policy for Google AdSense on the Dream Team Barber Shop page."
+        },
+        {
+          "level": "H3",
+          "text": "What information do we collect?"
+        },
+        {
+          "level": "H3",
+          "text": "How do we use Google AdSense?"
+        },
+        {
+          "level": "H4",
+          "text": "How can you manage your privacy preferences?"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [],
+        "loaderCount": 0,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 0,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 553,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Privacy Policy for Google AdSense on the Dream Team Barber Shop page. At Dream Team Barber Shop, we are committed to protecting the privacy and data of our visitors. Therefore, we have created this privacy policy to inform you about the collection and use of personal information on our website, specifically in relation to Google AdSense. What information do we collect? We may collect certain information from you when you visit our website. This information includes your IP addre"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+      "finalUrl": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+      "status": 200,
+      "elapsedMs": 135,
+      "bytes": 15729,
+      "sha256": "07d1240508f8493b2dd15731b0e3514f67614ef6ad7aef5a693394a529e9c503",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "title": "dream team barber shop",
+      "lang": "en",
+      "description": "The best Barber Shop in Florence",
+      "robots": null,
+      "canonical": null,
+      "viewport": "width=device-width, initial-scale=1.0",
+      "headings": [
+        {
+          "level": "H2",
+          "text": "Terms and Conditions of Use for the Dream Team Barber Shop Website."
+        },
+        {
+          "level": "H3",
+          "text": "Intellectual Property Rights"
+        },
+        {
+          "level": "H3",
+          "text": "License to Use Website"
+        },
+        {
+          "level": "H3",
+          "text": "Acceptable Use"
+        },
+        {
+          "level": "H3",
+          "text": "Limitations of Liability"
+        },
+        {
+          "level": "H3",
+          "text": "Variation"
+        },
+        {
+          "level": "H3",
+          "text": "Entire Agreement"
+        },
+        {
+          "level": "H3",
+          "text": "Law and Jurisdiction"
+        },
+        {
+          "level": "H2",
+          "text": "Contact Us"
+        },
+        {
+          "level": "H3",
+          "text": "Contact Info"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html#infomation",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Home",
+          "href": "https://dreamteambarbershop.com/index.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Barber Tips ▾",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html#information",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Tip-Root",
+          "href": "https://dreamteambarbershop.com/hairtipsandroots.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Hair-Type",
+          "href": "https://dreamteambarbershop.com/hairtype.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Health",
+          "href": "https://dreamteambarbershop.com/beardhealth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Growth",
+          "href": "https://dreamteambarbershop.com/beardgrowth.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Healthy",
+          "href": "https://dreamteambarbershop.com/healthyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Itchy",
+          "href": "https://dreamteambarbershop.com/itchyscalp.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Contact",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html#contact-us",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Cookies policy",
+          "href": "https://dreamteambarbershop.com/Cookiespolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "advertising policy",
+          "href": "https://dreamteambarbershop.com/advertisingpolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "Terms and conditions of use",
+          "href": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+          "target": "",
+          "rel": "",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/bestbarbersinKY/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/dreamteambarbershopky/",
+          "target": "_blank",
+          "rel": "noopener noreferrer",
+          "accessibleName": null
+        }
+      ],
+      "scripts": [
+        {
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "async": true,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/mousescroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/smoothscroll.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/wow.min.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://dreamteambarbershop.com/js/custom-scripts.js",
+          "async": false,
+          "defer": false
+        },
+        {
+          "src": "https://code.jquery.com/jquery-3.6.0.min.js",
+          "async": false,
+          "defer": false
+        }
+      ],
+      "stylesheets": [
+        "https://dreamteambarbershop.com/css/bootstrap.min.css",
+        "https://dreamteambarbershop.com/css/font-awesome.min.css",
+        "https://dreamteambarbershop.com/css/animate.min.css",
+        "https://dreamteambarbershop.com/css/prettyPhoto.css",
+        "https://dreamteambarbershop.com/css/styles.css"
+      ],
+      "images": [
+        {
+          "src": "https://dreamteambarbershop.com/images/logo.png",
+          "alt": "logo",
+          "width": null,
+          "height": null,
+          "loading": "auto",
+          "srcset": ""
+        }
+      ],
+      "forms": [
+        {
+          "method": "post",
+          "actionHost": "formsubmit.co",
+          "fields": [
+            {
+              "name": "_next",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "_captcha",
+              "type": "hidden",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "",
+              "hidden": true
+            },
+            {
+              "name": "name",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Name",
+              "hidden": false
+            },
+            {
+              "name": "email",
+              "type": "email",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Email",
+              "hidden": false
+            },
+            {
+              "name": "subject",
+              "type": "text",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Subject",
+              "hidden": false
+            },
+            {
+              "name": "message",
+              "type": "textarea",
+              "hasLabel": false,
+              "ariaLabel": null,
+              "placeholder": "Message",
+              "hidden": false
+            }
+          ],
+          "nextRedirect": "https://dreamteambarbershop-99ca0.web.app/index.html"
+        }
+      ],
+      "structuredData": [],
+      "ads": {
+        "publisherIds": [],
+        "loaderCount": 0,
+        "manualSlots": [],
+        "pushCount": 0
+      },
+      "analytics": {
+        "measurementIds": [
+          "G-BSETXZD2DM"
+        ],
+        "gtagLoaderCount": 1,
+        "configCount": 0,
+        "consentCode": false
+      },
+      "consentMarkers": false,
+      "bodyWords": 703,
+      "textExcerpt": "Toggle navigation Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Home Barber Tips ▾ Hair Care Tip-Root Hair-Type Beard Care Health Growth Scalp Care Healthy Itchy Contact Terms and Conditions of Use for the Dream Team Barber Shop Website. Welcome to the Dream Team Barber Shop website. These terms and conditions govern your use of our website; by using our website, you accept these terms and conditions in full. If you disagree with any part of these terms and conditions, please do not use our website. Intellectual Property Rights Unless otherwise stated, we or our licensors own the intellectual property rights in the website and material on the we"
+    }
+  ],
+  "endpoints": [
+    {
+      "url": "https://dreamteambarbershop.com/robots.txt",
+      "finalUrl": "https://dreamteambarbershop.com/robots.txt",
+      "status": 404,
+      "elapsedMs": 32,
+      "bytes": 1841,
+      "sha256": "e031c43bef932c522a3b353dfc65507544fd589c5dd7bba978fa8a6310c044ff",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/sitemap.xml",
+      "finalUrl": "https://dreamteambarbershop.com/sitemap.xml",
+      "status": 404,
+      "elapsedMs": 113,
+      "bytes": 1841,
+      "sha256": "e031c43bef932c522a3b353dfc65507544fd589c5dd7bba978fa8a6310c044ff",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/ads.txt",
+      "finalUrl": "https://dreamteambarbershop.com/ads.txt",
+      "status": 200,
+      "elapsedMs": 41,
+      "bytes": 58,
+      "sha256": "84f387b80d5c3498e2aae71e39d590049ea77f42e9a5c439b57ed25c54f7f2ae",
+      "headers": {
+        "content-type": "text/plain; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "text": "google.com, pub-4652560092630616, DIRECT, f08c47fec0942fa0"
+    },
+    {
+      "url": "https://dreamteambarbershop.com/audit-missing-page-20261103",
+      "finalUrl": "https://dreamteambarbershop.com/audit-missing-page-20261103",
+      "status": 404,
+      "elapsedMs": 82,
+      "bytes": 1841,
+      "sha256": "e031c43bef932c522a3b353dfc65507544fd589c5dd7bba978fa8a6310c044ff",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://dreamteambarbershop.com/js/jquery.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/jquery.js",
+      "status": 200,
+      "elapsedMs": 58,
+      "bytes": 93111,
+      "sha256": "3227c1f0bd7127f9b7fd63630f1868bd5c865be599bf536355d63222b353c197",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": [
+        "jQuery v1.10.2 | (c) 2005, 2013 jQuery Foundation, Inc. | jquery.org/license",
+        "jQuery,u=e.$,c={},p=[],f=\"1.10.2\",d=p.concat,h=p.push,g=p.slice,m=p.indexOf,y=c.toString,v=c.hasOwnPropert"
+      ]
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/bootstrap.min.js",
+      "status": 200,
+      "elapsedMs": 52,
+      "bytes": 35607,
+      "sha256": "6d0c489d9ab712d6670a54b4e665a39072926d309b001e179ccd721102b558df",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": [
+        "Bootstrap v3.3.1 (http://getbootstrap.com)",
+        "jQuery)throw new Error(\"Bootstrap's JavaScript requires jQuery\");+function(a){var b=a.fn.jquery.split(\" \")",
+        "Bootstrap's JavaScript requires jQuery version 1.9.1 or higher\")}(jQuer"
+      ]
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/mousescroll.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/mousescroll.js",
+      "status": 200,
+      "elapsedMs": 40,
+      "bytes": 9799,
+      "sha256": "04128e5a0e2af50eda8cf265602fc68f558697f014b6f70b2c4616fef40acf7c",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/smoothscroll.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/smoothscroll.js",
+      "status": 200,
+      "elapsedMs": 37,
+      "bytes": 6899,
+      "sha256": "0acf34d5bb6564b242bb23d95383fa824eaa584c16e0b2f8bb31e0d4a5378c3a",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+      "status": 404,
+      "elapsedMs": 34,
+      "bytes": 1841,
+      "sha256": "e031c43bef932c522a3b353dfc65507544fd589c5dd7bba978fa8a6310c044ff",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/jquery.isotope.min.js",
+      "status": 200,
+      "elapsedMs": 49,
+      "bytes": 16045,
+      "sha256": "743b919a337dfbb6d1e8648d0793532d47f8af48059e17f7e32ae8738c7614a7",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": [
+        "Isotope v1.5.25",
+        "jQuery plugin for magical layouts"
+      ]
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/jquery.inview.min.js",
+      "status": 200,
+      "elapsedMs": 41,
+      "bytes": 1424,
+      "sha256": "2fb896d59ab96b495498601fb1a0b126b53057ac7583e9ad13b319a3e532a943",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/wow.min.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/wow.min.js",
+      "status": 200,
+      "elapsedMs": 38,
+      "bytes": 4777,
+      "sha256": "186412f7166b1cc4ae633617a83bac2a507e549387c6e97f69f7654881f086ac",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null
+    },
+    {
+      "url": "https://dreamteambarbershop.com/js/custom-scripts.js",
+      "finalUrl": "https://dreamteambarbershop.com/js/custom-scripts.js",
+      "status": 200,
+      "elapsedMs": 51,
+      "bytes": 3761,
+      "sha256": "85c317dc8f4df9a9bd4ae8b9a64ec9c42d436af302fd18b4c382bf1f3d2521e0",
+      "headers": {
+        "content-type": "text/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": [
+        "jQuery(function($) {"
+      ]
+    },
+    {
+      "url": "https://dreamteambarbershop.com/css/bootstrap.min.css",
+      "finalUrl": "https://dreamteambarbershop.com/css/bootstrap.min.css",
+      "status": 200,
+      "elapsedMs": 43,
+      "bytes": 113471,
+      "sha256": "ccd903971da6a3c0af5a999ae7258147da613ae57d02420f640b6e055f015fca",
+      "headers": {
+        "content-type": "text/css; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": [
+        "Bootstrap v3.3.1 (http://getbootstrap.com)"
+      ],
+      "cssImports": []
+    },
+    {
+      "url": "https://dreamteambarbershop.com/css/font-awesome.min.css",
+      "finalUrl": "https://dreamteambarbershop.com/css/font-awesome.min.css",
+      "status": 200,
+      "elapsedMs": 53,
+      "bytes": 21987,
+      "sha256": "50dbecb3ed007ae3c814e0c220f9e9a153d02fbafa3d9465c4b222042976a8ec",
+      "headers": {
+        "content-type": "text/css; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null,
+      "cssImports": []
+    },
+    {
+      "url": "https://dreamteambarbershop.com/css/animate.min.css",
+      "finalUrl": "https://dreamteambarbershop.com/css/animate.min.css",
+      "status": 200,
+      "elapsedMs": 52,
+      "bytes": 55855,
+      "sha256": "72c105caa06c21134f40520c934ab86261d6965840d36e8862fb19e68725f238",
+      "headers": {
+        "content-type": "text/css; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null,
+      "cssImports": []
+    },
+    {
+      "url": "https://dreamteambarbershop.com/css/prettyPhoto.css",
+      "finalUrl": "https://dreamteambarbershop.com/css/prettyPhoto.css",
+      "status": 404,
+      "elapsedMs": 36,
+      "bytes": 1841,
+      "sha256": "e031c43bef932c522a3b353dfc65507544fd589c5dd7bba978fa8a6310c044ff",
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null,
+      "cssImports": []
+    },
+    {
+      "url": "https://dreamteambarbershop.com/css/styles.css",
+      "finalUrl": "https://dreamteambarbershop.com/css/styles.css",
+      "status": 200,
+      "elapsedMs": 34,
+      "bytes": 23326,
+      "sha256": "fb7e3c12b38b3f7fd5eb78f8f4ec3a0a76f06c536f4008e86b12b1fdd1194666",
+      "headers": {
+        "content-type": "text/css; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      },
+      "versionBanner": null,
+      "cssImports": [
+        "@import url(http://fonts.googleapis.com/css?family=Raleway:400,700,500);"
+      ],
+      "backgroundUrls": [
+        "http://fonts.googleapis.com/css?family=Raleway:400,700,500",
+        "'../images/banner/billar.jpg'",
+        "'../images/img2.jpg'",
+        "'../images/img4.jpg'",
+        "'../images/img2.jpg'",
+        "'../images/img2.jpg'",
+        "'../images/img2.jpg'",
+        "'../images/img2.jpg'"
+      ]
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/logo.png",
+      "finalUrl": "https://dreamteambarbershop.com/images/logo.png",
+      "status": 200,
+      "elapsedMs": 48,
+      "bytes": 7038,
+      "sha256": "30d5be0aca2faea33eca82fa2d1dacaec3aef0ca148e80c411975ce6ccb02bd6",
+      "headers": {
+        "content-type": "image/png",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/about.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/about.jpg",
+      "status": 200,
+      "elapsedMs": 63,
+      "bytes": 54694,
+      "sha256": "0bedba9dfe4bb65c15d7cb79e20be381dda8893aa0b467d7e879d9defb1cde64",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/team/04.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/team/04.jpg",
+      "status": 200,
+      "elapsedMs": 120,
+      "bytes": 123299,
+      "sha256": "74c846b3fd5798d4e59f70ff46ca4a321d1a5a44cf5f808ca475a5e8b8de0d57",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/01.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/01.jpg",
+      "status": 200,
+      "elapsedMs": 50,
+      "bytes": 33336,
+      "sha256": "b89c1115ded3a3e899298f1bac9fa21d74855c819cd311d093b3d6e7f56794fe",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/02.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/02.jpg",
+      "status": 200,
+      "elapsedMs": 42,
+      "bytes": 27499,
+      "sha256": "88c59f9ff4cc0ccf21981eb1962302be80924a9e2a761e5af55d511a87038c87",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/03.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/03.jpg",
+      "status": 200,
+      "elapsedMs": 48,
+      "bytes": 27796,
+      "sha256": "01745038ab517fa71c7656b264ce103a4ce88ef9f4e331b12b162ddddc39c307",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/04.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/04.jpg",
+      "status": 200,
+      "elapsedMs": 53,
+      "bytes": 24114,
+      "sha256": "59a399c02f00c3d130162af5168bbf54430cfba30e06b1e5c3c71c4e05b4437a",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/05.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/05.jpg",
+      "status": 200,
+      "elapsedMs": 45,
+      "bytes": 18727,
+      "sha256": "3fa61838f0182e002c156e295f6e6c9faeffcacda3605ac19296028d8001de5b",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/06.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/06.jpg",
+      "status": 200,
+      "elapsedMs": 38,
+      "bytes": 29182,
+      "sha256": "7e3e42ea1422d9168dfd73f1cad2c574c0e5ed1d720d2142e3dbdfdfd5a5f7cf",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/07.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/07.jpg",
+      "status": 200,
+      "elapsedMs": 46,
+      "bytes": 27895,
+      "sha256": "47ef289844935f341dd997d2317b7de30bc6b6fb66b55f9fc5b70f240c1ef09c",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/portfolio/08.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/portfolio/08.jpg",
+      "status": 200,
+      "elapsedMs": 38,
+      "bytes": 31527,
+      "sha256": "f35ace2c1427ca86ede819b35b6d51fba179d890c2bad314c5d9f69023257d18",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/articulo/hairroot&tip.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/articulo/hairroot&tip.jpg",
+      "status": 200,
+      "elapsedMs": 207,
+      "bytes": 66308,
+      "sha256": "8582d0428e7798db13fcdb99b85e48ddcde086b847f6184798ece4e6123e5b22",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/articulo/hairtype.png",
+      "finalUrl": "https://dreamteambarbershop.com/images/articulo/hairtype.png",
+      "status": 200,
+      "elapsedMs": 198,
+      "bytes": 107143,
+      "sha256": "8466fba78878e5278c7e4e6fa08f0cded467252c46b393a3b6ea29190901cc8c",
+      "headers": {
+        "content-type": "image/png",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/articulo/beardhealth.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/articulo/beardhealth.jpg",
+      "status": 200,
+      "elapsedMs": 205,
+      "bytes": 66604,
+      "sha256": "8937b48946f7b753ad5c6da6d7178fddf61fe618cd1cc61ed7459811aa61d7d0",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/articulo/beardgrowth.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/articulo/beardgrowth.jpg",
+      "status": 200,
+      "elapsedMs": 431,
+      "bytes": 61231,
+      "sha256": "e88344dbd454eea9151b703be6b69a42b8280dfeaa4490b177bfc23cfa49f7e8",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/articulo/healthyscalp.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/articulo/healthyscalp.jpg",
+      "status": 200,
+      "elapsedMs": 185,
+      "bytes": 69213,
+      "sha256": "feb09b9dafc64c03e772c56d889d016a67a0873e0122c7bacfc0185565748675",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "gzip",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    },
+    {
+      "url": "https://dreamteambarbershop.com/images/articulo/itchyscalp.jpg",
+      "finalUrl": "https://dreamteambarbershop.com/images/articulo/itchyscalp.jpg",
+      "status": 200,
+      "elapsedMs": 166,
+      "bytes": 32189,
+      "sha256": "8941090f42b89a59313d9a1a6d25a6bda05bd1b1547416c6790d74420c1ac10c",
+      "headers": {
+        "content-type": "image/jpeg",
+        "content-encoding": "br",
+        "cache-control": "max-age=3600",
+        "last-modified": "Mon, 29 Apr 2024 18:56:56 GMT",
+        "strict-transport-security": "max-age=31556926"
+      }
+    }
+  ],
+  "anchors": [
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#home"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#services"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#about"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#our-team"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#portfolio"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/",
+      "target": "https://dreamteambarbershop.com/#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#home"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#services"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#about"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#our-team"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#portfolio"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/index.html",
+      "target": "https://dreamteambarbershop.com/index.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/hairtipsandroots.html",
+      "target": "https://dreamteambarbershop.com/hairtipsandroots.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/hairtipsandroots.html",
+      "target": "https://dreamteambarbershop.com/hairtipsandroots.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/hairtipsandroots.html",
+      "target": "https://dreamteambarbershop.com/hairtipsandroots.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/hairtype.html",
+      "target": "https://dreamteambarbershop.com/hairtype.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/hairtype.html",
+      "target": "https://dreamteambarbershop.com/hairtype.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/hairtype.html",
+      "target": "https://dreamteambarbershop.com/hairtype.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/beardhealth.html",
+      "target": "https://dreamteambarbershop.com/beardhealth.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/beardhealth.html",
+      "target": "https://dreamteambarbershop.com/beardhealth.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/beardhealth.html",
+      "target": "https://dreamteambarbershop.com/beardhealth.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/beardgrowth.html",
+      "target": "https://dreamteambarbershop.com/beardgrowth.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/beardgrowth.html",
+      "target": "https://dreamteambarbershop.com/beardgrowth.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/beardgrowth.html",
+      "target": "https://dreamteambarbershop.com/beardgrowth.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/healthyscalp.html",
+      "target": "https://dreamteambarbershop.com/healthyscalp.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/healthyscalp.html",
+      "target": "https://dreamteambarbershop.com/healthyscalp.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/healthyscalp.html",
+      "target": "https://dreamteambarbershop.com/healthyscalp.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/itchyscalp.html",
+      "target": "https://dreamteambarbershop.com/itchyscalp.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/itchyscalp.html",
+      "target": "https://dreamteambarbershop.com/itchyscalp.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/itchyscalp.html",
+      "target": "https://dreamteambarbershop.com/itchyscalp.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/Cookiespolicy.html",
+      "target": "https://dreamteambarbershop.com/Cookiespolicy.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/Cookiespolicy.html",
+      "target": "https://dreamteambarbershop.com/Cookiespolicy.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/Cookiespolicy.html",
+      "target": "https://dreamteambarbershop.com/Cookiespolicy.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/advertisingpolicy.html",
+      "target": "https://dreamteambarbershop.com/advertisingpolicy.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/advertisingpolicy.html",
+      "target": "https://dreamteambarbershop.com/advertisingpolicy.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/advertisingpolicy.html",
+      "target": "https://dreamteambarbershop.com/advertisingpolicy.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+      "target": "https://dreamteambarbershop.com/PrivacyPolicy.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+      "target": "https://dreamteambarbershop.com/PrivacyPolicy.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/PrivacyPolicy.html",
+      "target": "https://dreamteambarbershop.com/PrivacyPolicy.html#contact-us"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+      "target": "https://dreamteambarbershop.com/Termsandconditionsofuse.html#infomation"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+      "target": "https://dreamteambarbershop.com/Termsandconditionsofuse.html#information"
+    },
+    {
+      "source": "https://dreamteambarbershop.com/Termsandconditionsofuse.html",
+      "target": "https://dreamteambarbershop.com/Termsandconditionsofuse.html#contact-us"
+    }
+  ],
+  "runtime": [
+    {
+      "profile": {
+        "name": "mobile",
+        "width": 390,
+        "height": 844,
+        "isMobile": true,
+        "deviceScaleFactor": 1
+      },
+      "layout": {
+        "title": "dream team barber shop",
+        "width": 390,
+        "scrollWidth": 390,
+        "jqueryVersion": "3.6.0",
+        "bookingLinks": [
+          {
+            "text": "MAKE APPOINTMENT",
+            "url": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+            "rect": {
+              "x": 84.484375,
+              "y": 467.984375,
+              "width": 221.03125,
+              "height": 47.9375
+            },
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/logo.png",
+            "complete": true,
+            "naturalWidth": 182,
+            "naturalHeight": 47
+          },
+          {
+            "src": "/images/about.jpg",
+            "complete": true,
+            "naturalWidth": 361,
+            "naturalHeight": 286
+          },
+          {
+            "src": "/images/team/04.jpg",
+            "complete": true,
+            "naturalWidth": 600,
+            "naturalHeight": 400
+          },
+          {
+            "src": "/images/portfolio/01.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/02.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/03.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/04.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/05.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/06.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/07.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/08.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          }
+        ],
+        "phoneLinks": 0,
+        "navToggle": [
+          {
+            "label": null,
+            "expanded": null,
+            "text": "Toggle navigation"
+          }
+        ]
+      },
+      "menu": {
+        "expanded": null,
+        "navVisible": true,
+        "serviceLinkVisible": true
+      },
+      "errors": [
+        "$(...).prettyPhoto is not a function"
+      ],
+      "httpErrors": [
+        {
+          "url": "https://dreamteambarbershop.com/css/prettyPhoto.css",
+          "status": 404
+        },
+        {
+          "url": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "status": 404
+        }
+      ],
+      "blockedRequests": [
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        "https://www.googletagmanager.com/gtag/js"
+      ],
+      "note": "AdSense and Analytics blocked deliberately. No booking or advertising clicks, no form submissions. Screenshots do not demonstrate live advertising or consent behavior."
+    },
+    {
+      "profile": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 1000,
+        "isMobile": false,
+        "deviceScaleFactor": 1
+      },
+      "layout": {
+        "title": "dream team barber shop",
+        "width": 1440,
+        "scrollWidth": 1440,
+        "jqueryVersion": "3.6.0",
+        "bookingLinks": [
+          {
+            "text": "MAKE APPOINTMENT",
+            "url": "https://booksy.com/en-us/81033_dream-team-barber-shop_barber-shop_20765_florence?do=invite&_branch_match_id=1195440350353339659&utm_medium=merchant_customer_invite&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT07J0UvKz88urtRLzs%2FVNzP0M3bxCCjJq0wCAN%2FkkB4iAAAA",
+            "rect": {
+              "x": 505,
+              "y": 549.9375,
+              "width": 430,
+              "height": 47.9375
+            },
+            "visible": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/logo.png",
+            "complete": true,
+            "naturalWidth": 182,
+            "naturalHeight": 47
+          },
+          {
+            "src": "/images/about.jpg",
+            "complete": true,
+            "naturalWidth": 361,
+            "naturalHeight": 286
+          },
+          {
+            "src": "/images/team/04.jpg",
+            "complete": true,
+            "naturalWidth": 600,
+            "naturalHeight": 400
+          },
+          {
+            "src": "/images/portfolio/01.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/02.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/03.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/04.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/05.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/06.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/07.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          },
+          {
+            "src": "/images/portfolio/08.jpg",
+            "complete": true,
+            "naturalWidth": 360,
+            "naturalHeight": 360
+          }
+        ],
+        "phoneLinks": 0,
+        "navToggle": [
+          {
+            "label": null,
+            "expanded": null,
+            "text": "Toggle navigation"
+          }
+        ]
+      },
+      "menu": null,
+      "errors": [
+        "$(...).prettyPhoto is not a function"
+      ],
+      "httpErrors": [
+        {
+          "url": "https://dreamteambarbershop.com/css/prettyPhoto.css",
+          "status": 404
+        },
+        {
+          "url": "https://dreamteambarbershop.com/js/jquery.prettyPhoto.js",
+          "status": 404
+        }
+      ],
+      "blockedRequests": [
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        "https://www.googletagmanager.com/gtag/js"
+      ],
+      "note": "AdSense and Analytics blocked deliberately. No booking or advertising clicks, no form submissions. Screenshots do not demonstrate live advertising or consent behavior."
+    }
+  ]
+}

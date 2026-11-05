@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-03",
+  "repository": "https://github.com/joseprensa/dreamteambarbershop",
+  "baseCommit": "42e4c1257aef6a9cbb26aaeb10cd0d3f533ccb08",
+  "branch": "codex/audit/adsense-performance",
+  "gitBundle": "../dreamteam-barbershop-backups/dreamteam-source-42e4c125-20261103.bundle",
+  "bundleSha256": "94a884f45a2eafd4d6c2cdc4212506e896f2b51e0ce1f165da310e8e9822e974",
+  "bundleVerify": "passed",
+  "livePublicSnapshot": "../dreamteam-barbershop-backups/live-20261103",
+  "liveFiles": 98,
+  "reconciliationCommit": "253bddfe90b46bd36bb9621bafb2c979380ea642",
+  "onlyMeaningfulPublishedDifferences": [
+    "public/index.html",
+    "public/css/styles.css"
+  ],
+  "githubPermissions": {
+    "pull": true,
+    "push": false
+  },
+  "branchInventory": [
+    "main"
+  ],
+  "originalProductionWorkflowBranch": "n (not present)",
+  "actionRuns": 0,
+  "actualProductionRelease": "not available: no Firebase console access",
+  "ownerDecision": "Prepare work branch from this repository while preserving the published site.",
+  "implementationCommit": "c413de45097611634275ebe3fc2d8eb53964f977",
+  "ownerReviewPreview": "http://127.0.0.1:4175",
+  "ownerReviewPreviewScope": "Local isolated copy; no Google loaders; zero external requests in opening test",
+  "reviewBundle": "../dreamteam-barbershop-backups/dreamteam-optimization-review-20261103.bundle",
+  "cleanupCommit": "caa62a4a4a0ddca13ff6b0c3f06fa35d3fc964ac",
+  "cleanedReviewBundle": "../dreamteam-barbershop-backups/dreamteam-optimization-clean-20261103.bundle"
+}

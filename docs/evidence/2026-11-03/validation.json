@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-03",
+  "validatedAtUtc": "2026-11-03T23:48:57.126Z",
+  "scope": "Local audit deliverables, not application build/lint/tests. Source repository unavailable.",
+  "reportEmailRedactions": 0,
+  "checks": [
+    {
+      "name": "Public audit scope",
+      "pass": true,
+      "detail": {
+        "documents": 12,
+        "assets": 31,
+        "endpoints": 4
+      }
+    },
+    {
+      "name": "All sampled documents return 200",
+      "pass": true
+    },
+    {
+      "name": "Identical home documents",
+      "pass": true
+    },
+    {
+      "name": "Publisher matches ads.txt",
+      "pass": true
+    },
+    {
+      "name": "Runtime booking link preserved and visible",
+      "pass": true
+    },
+    {
+      "name": "Scroll activates all WOW elements",
+      "pass": true
+    },
+    {
+      "name": "mobile Lighthouse run complete",
+      "pass": true
+    },
+    {
+      "name": "mobile ad/analytics loaders blocked",
+      "pass": true,
+      "detail": [
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "status": -1,
+          "bytes": 0
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "status": -1,
+          "bytes": 0
+        }
+      ]
+    },
+    {
+      "name": "mobile summary matches raw report",
+      "pass": true
+    },
+    {
+      "name": "desktop Lighthouse run complete",
+      "pass": true
+    },
+    {
+      "name": "desktop ad/analytics loaders blocked",
+      "pass": true,
+      "detail": [
+        {
+          "url": "https://www.googletagmanager.com/gtag/js?id=G-BSETXZD2DM",
+          "status": -1,
+          "bytes": 0
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4652560092630616",
+          "status": -1,
+          "bytes": 0
+        }
+      ]
+    },
+    {
+      "name": "desktop summary matches raw report",
+      "pass": true
+    },
+    {
+      "name": "tools/public-audit.cjs syntax",
+      "pass": true
+    },
+    {
+      "name": "tools/navigation-audit.cjs syntax",
+      "pass": true
+    },
+    {
+      "name": "Markdown local links resolve",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No recognized credential patterns",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "No stored email addresses",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "git diff --check",
+      "pass": true
+    },
+    {
+      "name": "No remote assigned to provisional repository",
+      "pass": true
+    },
+    {
+      "name": "git diff --cached --check after generated HTML whitespace normalization",
+      "pass": true
+    }
+  ],
+  "pass": true
+}
